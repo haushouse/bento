@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Adobe Creative Jam × Airbnb
+title: Adobe Creative Jam × Airbnb (draft)
 description: Booking trips with friends has never been easier.
 card_size: small
 cover_image: "/assets/images/parisTime.png"
@@ -14,8 +14,8 @@ contribution:
 - item: User Experience
 - item: Development
 slider: true
-published: false
 collaborator: []
+published: false
 
 ---
 ### Introduction
