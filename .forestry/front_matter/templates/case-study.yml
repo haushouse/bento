@@ -5,6 +5,7 @@ fields:
 - type: text
   name: layout
   label: layout
+  hidden: true
 - type: text
   name: title
   label: title
@@ -13,16 +14,13 @@ fields:
   label: description
 - type: file
   name: cover_image
-  label: cover_image
+  label: homepage image
 - type: file
   name: post_image
-  label: post_image
+  label: hero image
 - type: text
   name: project_link
   label: project_link
-- type: number
-  name: order
-  label: order
 - type: text
   name: context_work
   label: context_work
@@ -43,12 +41,3 @@ fields:
   - type: text
     name: team
     label: team
-- type: boolean
-  name: footer
-  label: footer
-- type: boolean
-  name: slider
-  label: slider
-- type: text
-  name: color
-  label: color
