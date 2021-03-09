@@ -15,7 +15,6 @@ contribution:
 - item: Development
 slider: true
 collaborator: []
-published: false
 
 ---
 ### Introduction
