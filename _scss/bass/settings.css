@@ -1,0 +1,92 @@
+:root {
+/* colors */
+  --ink-0: #f7f7fa;
+  --ink-1: #efeff4;
+  --ink-2: #e6e7ef;
+  --ink-3: #d8dbe6;
+  --ink-4: #c7cadb;
+  --ink-5: #a4a6be;
+  --ink-6: #7c7c99;
+  --ink-7: #41415a;
+  --ink-8: #2e2d42;
+  --ink-9: #1c1c2b;
+  --cherry: #ec0c41;
+  --matcha: #2ebd5c;
+  --fade: linear-gradient(to right,rgba(239, 239, 244, 0), var(--ink-1), var(--ink-1));
+
+/* shadows */
+  --longShadow: 0px 76px 80px rgba(0, 0, 0, 0.05), 0px 41.9904px 56.2739px rgba(0, 0, 0, 0.0503198), 0px 23.3207px 32.0013px rgba(0, 0, 0, 0.0417275), 0px 12.687px 17.197px rgba(0, 0, 0, 0.035), 0px 6.26795px 8.22435px rgba(0, 0, 0, 0.0282725), 0px 2.33133px 2.87631px rgba(0, 0, 0, 0.0196802);
+
+ /* border  */
+  --border-width: 1px;
+  --border-radius: 2px;
+
+/* spacing */
+    --space-1: .5rem;
+    --space-2: 1rem;
+    --space-3: 2rem;
+    --space-4: 4rem;
+/* z-index */
+    --z1: 1;
+    --z2: 2;
+    --z3: 3;
+    --z4: 4;
+
+/* type */
+    --line-height-1: 1;
+    --line-height-2: 1.25;
+    --line-height-3: 1.5;
+    --line-height-4: 1.75;
+    --caps-letter-spacing: .05em;
+    --bold-font-weight: 500;
+    --t00: 2.5rem;
+    --t0: 3rem;
+    --t1: 2rem;
+    --t2: 1.75rem;
+    --t3: 1.6rem;
+    --t4: 1.2rem;
+    --t5: 1rem;
+    --t6: .875rem;
+}
+
+
+html {
+  font-size: 12px;
+}
+
+body {
+    /* font-size: 18px; */
+    font-family: 'system-ui', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    box-sizing: border-box;
+    width: 100%;
+    font-weight: 400;
+    margin: 0;
+    padding: 2rem;
+    background-color: var(--ink-0);
+    color: var(--ink-6)
+}
+
+hr {
+  border: 0;
+  border-bottom: 1px solid var(--ink-3);
+  margin: 1rem 0;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --ink-9: white;
+    --ink-8: hsl(233, 35%, 92%);
+    --ink-7: hsl(227, 32%, 87%);
+    --ink-6: hsl(231, 30%, 82%);
+    --ink-5: hsl(235, 27%, 69%);
+    --ink-4: hsl(240, 22%, 54%);
+    --ink-3: hsl(240, 18%, 30%);
+    --ink-2: hsl(243, 20%, 22%);
+    --ink-1: hsl(240, 23%, 14%);
+    --ink-0: #111122;
+    --fade: linear-gradient(to right,rgba(27, 27, 44,0), var(--ink-1), var(--ink-1));
+    transition: background-color 150ms ease-in-out;
+  }
+} 

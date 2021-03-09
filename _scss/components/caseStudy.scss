@@ -1,0 +1,108 @@
+.blog main {
+  border: 1px solid transparent;
+  box-shadow: inset 1px 1px 0 1px var(--ink-3),inset -1px -1px 0 1px var(--ink-3);
+  max-width: 1280px;
+  margin: auto auto;
+  padding:  0;
+  padding-bottom: 8rem;
+}
+
+.blog {
+
+  header {
+    padding: 0;
+  }
+  header h1 {
+    margin-top: 6rem;
+  }
+  header h1, header p {
+    max-width: none;
+  }
+
+  .byline {
+    color: var(--ink-6);
+  }
+
+  nav p {
+    margin: 0;
+    padding: 0;
+  }
+
+.fullBleed {
+  margin-top: 0;
+}
+img {
+  width: 100%;
+  margin: 1rem 0;
+}
+img + img {
+  margin: 0;
+}
+p, h1, h2, h3, h4, h5, h6 {
+  padding: 0 3rem;
+  color: var(--ink-7);
+}
+p + p {
+  margin-bottom: 2rem;
+}
+p img + img {
+  display: inline-block;
+}
+p, h1, h2, h3, h4, h5, h6 {
+  max-width: 900px;
+  margin: 2rem auto;
+}
+h1, h2, h3, h4, h5, h6 {
+  margin-top: 4rem;
+  color: var(--ink-8);
+  font-weight: 400;
+}
+small {
+  padding: 1rem 2rem;
+  font-size: var(--t4);
+}
+figure {
+  width: 100%;
+  margin: 0;
+}
+
+h1 {
+  font-size: var(--t0);
+  margin-top: 2rem;
+}
+h2 {
+  font-size: var(--t1);
+}
+h3 {
+  font-size: var(--t2);
+}
+.flexImages {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 8px;
+  margin-top: 3rem;
+  div {
+    width: 100%;
+    object-fit: contain;
+    grid-column: initial;
+    }
+}
+
+.glide {
+  margin: 8rem 0;
+  img {
+    pointer-events: none;
+  }
+  .glide__slide {
+    background-color: var(--ink-2);
+    padding: 2rem;
+    height: 100%;
+  }
+}
+.contentGrid .glide .glide__slide small {
+  font-size: 1.4rem;
+  display: block;
+  max-width: 56ch;
+  margin: auto auto 2rem;
+}
+}

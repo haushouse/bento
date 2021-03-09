@@ -1,0 +1,29 @@
+---
+---
+// import statements 
+// @import 'core/global';
+// @import 'core/utilities';
+// @import 'core/layout';
+// @import 'core/resume';
+
+@import 'bass/settings';
+@import 'bass/type';
+@import 'bass/align';
+@import 'bass/margin';
+@import 'bass/padding';
+@import 'bass/flex';
+@import 'bass/position';
+@import 'bass/border';
+@import 'bass/color';
+
+
+@import 'components/buttons';
+@import 'components/layouts';
+@import 'components/card';
+@import 'components/footer';
+@import 'components/caseStudy';
+@import 'components/nav';
+
+@import 'core/resume';
+
+@import "other/aos";

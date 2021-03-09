@@ -1,0 +1,28 @@
+# Site settings
+title: 'Derek Liu' # Your Title
+email: '' # Your email
+description: "'I'm Derek – I am a digital designer that focuses on simple clear experiences."
+author: "Derek Liu"
+image: "/assets/images/open_graph.png"
+# Build settings
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+google_analytics_key:
+
+# Sass settings
+sass:
+  add_charset: true
+  sass_dir: _scss
+  style: :compressed
+  
+collections:
+  works:
+    output: true
+    permalink: :collection/:name
+    
+# Gems
+plugins:
+  - jekyll-feed
+  - jekyll-menus
+  - jekyll-seo-tag

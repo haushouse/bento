@@ -1,0 +1,6 @@
+- page: "About"
+  url: "/about"
+- page: "Instagram"
+  url: "https://www.instagram.com/hello_lorem/"
+- page: "Dribbble"
+  url: "https://dribbble.com/hello_lorem"

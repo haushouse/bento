@@ -1,0 +1,62 @@
+---
+layout: default
+title: "Home"
+description: Simple by design.
+working_copy: I am a digital designer that focuses on simple clear experiences.
+grid_border: true
+featuredlinks:
+    - link: Email
+      url: 
+    - link: About me
+      url: /About
+    - link: Resume
+---
+
+<header class="fourbygrid p0 xlgItem minheight">
+
+  <div class="lgItem flex flex-column justify-center smFill smborderright">
+    <h1 class=" t00 mt4 ink8 medium">
+      {{ page.description }}
+    </h1>
+      <p class="t1 light ink7 mt2 mb2 maxch">
+        {{ page.working_copy }}
+    </p>
+    
+  </div>
+ <div class="smItem smFill flex flex-column justify-center">
+  <div class="flex flex-column justify-center">
+    {% for featuredlinks in page.featuredlinks %}
+    <a class="ink7 mr4 pb2 text-decoration-none hover-underline t3" href="{{ featuredlinks.url  }}">{{ featuredlinks.link }}</a>
+    {% endfor %}
+  </div>
+ </div>
+
+
+</header>
+
+<section class="fourbygrid p0 xlgItem">
+
+  {% for work in site.works %}
+    <a href="{{work.url}}" 
+      class="
+      {% if work.card_size == 'xlarge' %} xlgItem 
+        {% elsif work.card_size == 'large'%} lgItem 
+        {% elsif work.card_size == 'medium' %} mdItem 
+        {% else%} smItem
+      {% endif %}">
+      <div>
+        <small class="caps bold">
+          {% if forloop.index0 < 9 %}
+            0{{ forloop.index0 }}
+          {% else %}
+            {{ forloop.index0 }}
+          {% endif %}
+        </small>
+        <p class="mb1">{{ work.title }}</p>
+        <p class="description pb3">{{ work.description }}</p>
+      </div>
+      <img src="{{ work.cover_image }}" alt=" {{ work.title }} image">
+      <div class="cardBackground"></div>
+    </a>
+  {% endfor %}
+</section>

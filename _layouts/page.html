@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8">
+    <link rel="icon" href="{{site.url}}/assets/favicon.svg" type="image/svg+xml">
+    <link rel="icon" href="{{site.url}}/assets/favicon.png">
+    <link rel="apple-touch-icon" href="{{site.url}}/assets/apple-touch-icon.png">
+    <title>{{ page.title }} - {{ site.title }}</title>
+    {% seo %}
+    {% include analytics.html %}
+    <link rel="stylesheet" href="{{ "/assets/css/app.css" | relative_url }}">
+  </head>
+  <body>
+    <main data-scroll-container class="singleColumn">
+      {% include nav.html %}
+      {{ content}}
+      {% include footer.html %}
+    </main>
+  </body>
+</html>

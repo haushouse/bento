@@ -1,0 +1,9 @@
+<footer class="fourbygrid max1280">
+    <ul class="list-reset">
+      {% for link in site.data.navigation %}
+      <li class="inline-block p2 pl4 pt3 pb3">
+        <a href="{{link.url}}" class="text-decoration-none t4">{{link.page}}</a>
+      </li>
+      {% endfor %}
+    </ul>
+</footer>

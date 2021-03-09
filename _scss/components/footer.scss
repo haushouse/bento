@@ -1,0 +1,21 @@
+footer {
+	font-weight: 400;
+	transform: translateY(-2px);
+
+	ul {
+		justify-self: end;
+		grid-column:  span 2 / -1;
+		width: 100%;
+		// background: var(--ink-8);
+		box-shadow: inset 1px 1px 0 1px var(--ink-3), inset -1px -1px 0 1px var(--ink-3);
+		// box-sizing: border-box;
+		margin: 0;
+	}
+	a {
+		color: var(--ink-7);
+	}
+	a:hover {
+		color: var(--ink-9);
+		text-decoration: underline;
+	}
+}
