@@ -22,12 +22,9 @@ While working for Flux Studio  at Oregon State University, a client approached m
 
 ### Interface
 
-At the start of the project, they showed our team the current prototype game. However they made it clear that all of the current assets besides the logo were placeholders and gave us free rein to create a new look and systems.
-<figure>
-<img src="/assets/images/bc-startingdesign.png">
-<small>↑ previous icon design</small>
+At the start of the project, they showed our team the current prototype game. However they made it clear that all of the current assets besides the logo were placeholders and gave us free rein to create a new look and systems. <figure> <img src="/assets/images/bc-startingdesign.png"> <small><strong>↑ Old design.</strong></small>
 
-<br><small><em>The client allowed us to explore new designs of the HP bar, cards, and other hud assets.</em></small>
+<small><em>The client allowed us to explore new designs of the HP bar, cards, and other hud assets.</em></small>
 
  </figure> 
 
