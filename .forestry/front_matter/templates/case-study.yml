@@ -60,6 +60,7 @@ fields:
     name: team
     label: team
 pages:
+- _works/adobe-x-airbnb.md
 - _works/battleCaster.md
 - _works/comet-comic-app.md
 - _works/hot-pot.md
