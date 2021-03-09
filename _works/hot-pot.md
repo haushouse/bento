@@ -14,11 +14,17 @@ collaborator: []
 ---
 ### Introduction
 
-While working for Flux Studio  at Oregon State University, a client approached my team got about redesigning the app interface of a new mobile card game. Battle Casters is a PVP digital trading card game in which players control a single character’s stats, movement, and attacks through the various cards they control.
+Hot Pot is a cooking app designed to make cooking easy. It helps users quickly find time sensitive recipes that fits their needs. A unique feature this app offers is the ability to search for recipes based on ingredients the user already has in their kitchen. Our target audience is users between the ages of 18 to 30, with this age range consisting mostly of college students, young adults, and parents.
 
-### Interface
+### Strategy
 
-At the start of the project, they showed our team the current prototype game. However they made it clear that all of the current assets besides the logo were placeholders and gave us free rein to create a new look and systems. <figure> <img src="/assets/images/bc-startingdesign.png"> <small>↑ previous icon design</small> </figure> For the new look, we kept the texture paper background. To make the most of the screen and maximize the amount of the battlefield a player can see at any given time, we made elements transparent and pushed them off-screen when not active. We positioned these interactive elements at the bottom of the screen to make it easier to hit with one's fingers. ![starting design](/assets/images/bc_mobileFriends.jpg) ![starting design](/assets/images/bc_mobileStart.jpg) ![starting design](/assets/images/bc_battlescreen.jpg) ![starting design](/assets/images/bc_mobileMenu.jpg)
+Many people refrain from cooking due to time consumption and budgeting. Hot Pot focuses on time and efficiency, providing our users with recipes that reflect their lifestyle. Users should be able to categorize recipes based on thier current needs such as, budget, cravings, dietary needs, time and duration. Our primary focus is on efficiency, convenience and creating a user friendly interface.
+
+### Flowchart
+
+Creating a comprehensive flowchart helped pave the way for the development of Hot Pot. Using this as a rough guideline, we continued to the prototying phase of the project.
+
+![starting design](/assets/images/bc_mobileFriends.jpg) ![starting design](/assets/images/bc_mobileStart.jpg) ![starting design](/assets/images/bc_battlescreen.jpg) ![starting design](/assets/images/bc_mobileMenu.jpg)
 
 <style> .glide ul { max-width: initial; } .glide img { pointer-events: none; } .glide__slides { padding-left: 0; } .glide .glide__slide { opacity: 1; transform: scale(1); } </style> <div class="glide mt4"> <div class="glide__track" data-glide-el="track"> <ul class="glide__slides"> <li class="glide__slide"> <img src="/assets/images/ui_buttons.png" alt="first draft" style="text-align: center;"> </li> <li class="glide__slide" style="text-align: center;"> <img src="/assets/images/hp_bar_right.png" alt="second draft"> </li> </ul> </div> </div>
 
