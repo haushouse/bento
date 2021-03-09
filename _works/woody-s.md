@@ -10,6 +10,5 @@ context_work: ''
 context_date: ''
 contribution: []
 collaborator: []
-published: false
 
 ---
