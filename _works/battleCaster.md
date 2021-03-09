@@ -28,9 +28,13 @@ At the start of the project, they showed our team the current prototype game. Ho
 
 <img src="/assets/images/bc-startingdesign.png">
 
-<small><strong>↑ Old design.</strong></small>
+<small>
 
-<small><em>The client allowed us to explore new designs of the HP bar, cards, and other hud assets.</em></small>
+<strong>↑ Old design.</strong>
+
+<em>The client allowed us to explore new designs of the HP bar, cards, and other hud assets.</em>
+
+</small>
 
  </figure> 
 
