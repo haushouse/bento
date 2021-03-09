@@ -20,53 +20,53 @@ collaborator: []
 
 While working for Flux Studio  at Oregon State University, a client approached my team got about redesigning the app interface of a new mobile card game. Battle Casters is a PVP digital trading card game in which players control a single character’s stats, movement, and attacks through the various cards they control.
 
-<style> 
+<style>
 
-.glide ul { 
+.glide ul {
 
 max-width: initial;
 
- } 
+}
 
-.glide img { 
+.glide img {
 
-pointer-events: none; 
+pointer-events: none;
 
-} 
+}
 
-.glide__slides { 
+.glide__slides {
 
-padding-left: 0; 
+padding-left: 0;
 
-} 
+}
 
-.glide .glide__slide { 
+.glide .glide__slide {
 
-opacity: 1; transform: scale(1); 
+opacity: 1; transform: scale(1);
 
-} 
+}
 
-</style> 
+</style>
 
-<div class="glide mt4"> 
+<div class="glide mt4">
 
-<div class="glide__track" data-glide-el="track"> 
+<div class="glide__track" data-glide-el="track">
 
-<ul class="glide__slides"> 
+<ul class="glide__slides">
 
-<li class="glide__slide"> 
+<li class="glide__slide">
 
-<img src="/assets/images/ui_buttons.png" alt="first draft" style="text-align: center;"> 
+<img src="/assets/images/bc_slider1.png" alt="first draft" style="text-align: center;">
 
-</li> 
+</li>
 
-<li class="glide__slide" style="text-align: center;"> <img src="/assets/images/hp_bar_right.png" alt="second draft"> 
+<li class="glide__slide" style="text-align: center;"> <img src="/assets/images/bc_slider2.png" alt="second draft">
 
-</li> 
+</li>
 
-</ul> 
+</ul>
 
-</div> 
+</div>
 
 </div>
 
@@ -92,7 +92,7 @@ For the new look, we kept the texture paper background. To make the most of the 
 
 </small>
 
- </figure> 
+</figure>
 
 For the new look, we kept the texture paper background. To make the most of the screen and maximize the amount of the battlefield a player can see at any given time, we made elements transparent and pushed them off-screen when not active. We positioned these interactive elements at the bottom of the screen to make it easier to hit with one's fingers. ![starting design](/assets/images/bc_mobileFriends.jpg)
 ![starting design](/assets/images/bc_mobileStart.jpg)
