@@ -17,6 +17,7 @@ collaborator:
 footer: true
 slider: true
 color: "#DAA428"
+published: false
 
 ---
 ### The Objective
