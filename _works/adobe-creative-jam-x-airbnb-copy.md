@@ -4,7 +4,7 @@ title: Adobe Creative Jam × Airbnb
 description: Booking trips with friends has never been easier.
 card_size: small
 cover_image: "/assets/images/parisTime.png"
-post_image: "/assets/images/og-punchclock.jpg"
+post_image: assets/images/airbnb_hero.png
 role: App Design, User Experience, developer
 project_link: https://feyder.design/punchclock
 context_work: Development
