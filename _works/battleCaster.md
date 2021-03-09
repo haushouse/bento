@@ -1,21 +1,21 @@
 ---
 layout: blog
 title: Battle Caster
-published: true
 description: Waging war with the cards in your hand.
 card_size: medium
 cover_image: "/assets/images/placeholder.png"
 post_image: "/assets/images/battleCaster_post.png"
-context_work: "Client Work"
-context_date: "Jan 2020 – Jun 2020" 
-contribution: 
-  - item: Interface Design
-  - item: User Experience
-  - item: Asset Creation
-collaborators: "Derek Liu, Lily Liu"
+context_work: Client Work
+context_date: Jan 2020 – Jun 2020
+contribution:
+- item: Interface Design
+- item: User Experience
+- item: Asset Creation
+collaborators: Derek Liu, Lily Liu
+project_link: ''
+collaborator: []
+
 ---
-
-
 ### Introduction
 While working for Flux Studio  at Oregon State University, a client approached my team got about redesigning the app interface of a new mobile card game. Battle Casters is a PVP digital trading card game in which players control a single character’s stats, movement, and attacks through the various cards they control.
 
@@ -107,5 +107,3 @@ The last component of the card we changed was the element symbols. The original 
     },
 }).mount();
   </script>
-
-

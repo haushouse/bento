@@ -42,4 +42,5 @@ fields:
     name: team
     label: team
 pages:
+- _works/battleCaster.md
 - _works/comet-comic-app.md
