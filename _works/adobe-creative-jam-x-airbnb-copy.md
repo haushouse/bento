@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Adobe Creative Jam × Airbnb
-description: Booking trips with friends has never been easier.
+description: UI Design / Branding
 card_size: small
 cover_image: "/assets/images/parisTime.png"
 post_image: assets/images/airbnb_hero.png
