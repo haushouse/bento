@@ -1,23 +1,23 @@
 ---
 layout: blog
 title: Comet App
-published: true
 description: Rethinking comics and how we interact with them.
 cover_image: "/assets/images/parisTime.png"
 post_image: "/assets/images/comet-homescreens.png"
 project_link: https://xd.adobe.com/view/af7ccbd6-55b7-4aa4-702c-c7797b0533eb-d94d/
 order: 2
-context_work: "Mobile app"
-context_date: "May 2020 – present" 
-contribution: 
-  - item: Interface Design
-  - item: User Experience
-  - item: Branding
+context_work: Mobile app
+context_date: May 2020 – present
+contribution:
+- item: Interface Design
+- item: User Experience
+- item: Branding
 collaborator:
-  - team: Ajay .M
+- team: Ajay .M
 footer: true
 slider: true
 color: "#DAA428"
+
 ---
 ### The Objective
 For webcomic creators, there is no direct or easy way to help monetize your work while reaching a wide audience. Most online comic reader apps either require payment from the author to access community tools or require subscriptions from the reader before reading the creators' works. I was brought on at the concept and development phase. My role was to create the experience, interface and identity. With my goal to create an **easy to use and appealing interface**.
@@ -181,4 +181,3 @@ Comet is still in development -->
     },
 }).mount();
   </script>
-

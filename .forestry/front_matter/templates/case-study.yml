@@ -41,3 +41,5 @@ fields:
   - type: text
     name: team
     label: team
+pages:
+- _works/comet-comic-app.md
