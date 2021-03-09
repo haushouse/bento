@@ -10,9 +10,23 @@ fields:
 - type: text
   name: title
   label: title
-- name: published
-  type: boolean
-  label: published
+- name: card_size
+  type: select
+  default: []
+  config:
+    required: false
+    options:
+    - small
+    - medium
+    - large
+    - xlarge
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: card size
+  description: How big the case study card shows on homepage.
 - type: text
   name: description
   label: description
