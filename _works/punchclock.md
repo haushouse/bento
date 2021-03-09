@@ -1,22 +1,23 @@
 ---
 layout: blog
 title: Adobe Creative Jam × Airbnb
-published: true
 description: Booking trips with friends has never been easier.
 card_size: small
 cover_image: "/assets/images/parisTime.png"
 post_image: "/assets/images/og-punchclock.jpg"
 role: App Design, User Experience, developer
-project_link: "https://feyder.design/punchclock"
-context_work: "Development"
-context_date: "Aug 2019" 
-contribution: 
-  - item: Interface Design
-  - item: User Experience
-  - item: Development
+project_link: https://feyder.design/punchclock
+context_work: Development
+context_date: Aug 2019
+contribution:
+- item: Interface Design
+- item: User Experience
+- item: Development
 slider: true
----
+published: false
+collaborator: []
 
+---
 ### Introduction
 Punch Clock is a simple time tracker that is hyper-focused on two core features: recording time and calculating an hourly wage. That’s it, no extra features, no hidden cost, no login required. The web app simply saves your task and hourly rate to your computer so there is no need to keep your browser open just click start and come back when you’re done.
 
