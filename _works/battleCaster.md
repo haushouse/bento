@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Battle Caster
-description: Waging war with the cards in your hand.
+description: UI Design
 card_size: medium
 cover_image: assets/images/bc_thumbnail.png
 post_image: assets/images/battleCaster_post.png
