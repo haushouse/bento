@@ -16,9 +16,59 @@ project_link: ''
 collaborator: []
 
 ---
-### Introduction
+### Group 6
 
 While working for Flux Studio  at Oregon State University, a client approached my team got about redesigning the app interface of a new mobile card game. Battle Casters is a PVP digital trading card game in which players control a single character’s stats, movement, and attacks through the various cards they control.
+
+<style> 
+
+.glide ul { 
+
+max-width: initial;
+
+ } 
+
+.glide img { 
+
+pointer-events: none; 
+
+} 
+
+.glide__slides { 
+
+padding-left: 0; 
+
+} 
+
+.glide .glide__slide { 
+
+opacity: 1; transform: scale(1); 
+
+} 
+
+</style> 
+
+<div class="glide mt4"> 
+
+<div class="glide__track" data-glide-el="track"> 
+
+<ul class="glide__slides"> 
+
+<li class="glide__slide"> 
+
+<img src="/assets/images/ui_buttons.png" alt="first draft" style="text-align: center;"> 
+
+</li> 
+
+<li class="glide__slide" style="text-align: center;"> <img src="/assets/images/hp_bar_right.png" alt="second draft"> 
+
+</li> 
+
+</ul> 
+
+</div> 
+
+</div>
 
 ### Interface
 
