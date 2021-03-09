@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Battle Caster
-description: UI Design
+description: UI Design / Branding
 card_size: medium
 cover_image: assets/images/bc_thumbnail.png
 post_image: assets/images/battleCaster_post.png
