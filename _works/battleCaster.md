@@ -2,7 +2,7 @@
 layout: blog
 title: Battle Caster
 description: Waging war with the cards in your hand.
-card_size: xlarge
+card_size: medium
 cover_image: assets/images/bc_thumbnail.png
 post_image: "/assets/images/battleCaster_post.png"
 context_work: Client Work
