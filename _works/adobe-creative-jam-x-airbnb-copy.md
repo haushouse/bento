@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Adobe Creative Jam × Airbnb
+title: Adobe × Airbnb
 description: UI Design / Branding
 card_size: small
 cover_image: "/assets/images/parisTime.png"
