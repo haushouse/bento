@@ -76,7 +76,7 @@ opacity: 1; transform: scale(1);
 
 </div>
 
-<small style="text-align: center; color: var(--ink-6); font-weight: 600;">drag, swipe or use arrow keys</small>
+<small style="text-align: center; color: var(--ink-6); font-weight: 600; display: block;">drag, swipe or use arrow keys</small>
 
 </div>
 
