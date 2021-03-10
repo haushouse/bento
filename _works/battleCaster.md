@@ -56,8 +56,6 @@ opacity: 1; transform: scale(1);
 
 <li class="glide__slide">
 
-![](/assets/images/bc_slider1.png)
-
 <img src="/assets/images/bc_slider1.png" alt="first draft" style="text-align: center;">
 
 </li>
