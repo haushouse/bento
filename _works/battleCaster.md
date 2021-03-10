@@ -124,6 +124,12 @@ The last component of the card we changed was the element symbols. The original 
 
 After the contract with our client ended, they took the design assets we created and implemented them into their game. While Group 6 liked what we created, they adjusted the assets to their own liking.
 
+![](/assets/images/bc_desktopingame.png)
+
+<small>↑ In-game desktop view</small>
+
+![](/assets/images/bc_devphone.png)
+
 <script src="{{site.url}}/logic/glide.min.js"></script>
 <script>
 var slide = new Glide(".glide", {
