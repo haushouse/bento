@@ -58,13 +58,19 @@ opacity: 1; transform: scale(1);
 
 <img src="/assets/images/bc_slider1.png" alt="first draft" style="text-align: center;">
 
+<small>Old mobile main-menu artwork.</small>
+
 </li>
 
 <li class="glide__slide" style="text-align: center;"> <img src="/assets/images/bc_slider2.png" alt="second draft">
 
+<small>Old design of the in-game desktop screen.</small>
+
 </li>
 
 <li class="glide__slide" style="text-align: center;"> <img src="/assets/images/bc_oldcards.png" alt="forth draft">
+
+<small>Old magic scroll design.</small>
 
 </li>
 
