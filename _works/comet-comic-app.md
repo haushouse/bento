@@ -119,7 +119,7 @@ all corners rounded to give a playful and friendly feel.
 <small>↑ Author Store pages & Shopping Cart</small>
 </div>
 <div>
-<img src="/assets/images/comet-onboard-1.png" alt="profile and settings pages">
+<img src="/assets/images/bc_phone1.png" alt="profile and settings pages">
 <small>↑ Author Profile, User pages</small>
 </div>
 </figure>
