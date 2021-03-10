@@ -56,6 +56,8 @@ opacity: 1; transform: scale(1);
 
 <li class="glide__slide">
 
+![](/assets/images/bc_slider1.png)
+
 <img src="/assets/images/bc_slider1.png" alt="first draft" style="text-align: center;">
 
 </li>
@@ -79,16 +81,6 @@ At the start of the project, they showed our team the current prototype game. Ho
 ### Interface
 
 For the new look, we kept the texture paper background. To make the most of the screen and maximize the amount of battlefield a player can see at any given time, we made elements transparent and pushed them off-screen when not active. We positioned these interactive elements at the bottom of the screen to make it easier to hit with one’s fingers.
-
-<img src="/assets/images/bc-startingdesign.png">
-
-<small>
-
-<strong>↑ Old design.</strong>
-
-<em>The client allowed us to explore new designs of the HP bar, cards, and other hud assets.</em>
-
-</small>
 
 For the new look, we kept the texture paper background. To make the most of the screen and maximize the amount of the battlefield a player can see at any given time, we made elements transparent and pushed them off-screen when not active. We positioned these interactive elements at the bottom of the screen to make it easier to hit with one's fingers. ![starting design](/assets/images/bc_mobileFriends.jpg)
 ![starting design](/assets/images/bc_mobileStart.jpg)
