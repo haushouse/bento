@@ -94,15 +94,21 @@ For the new look, we kept the texture paper background. To make the most of the 
 
 ![](/assets/images/bc_phone1.png)
 
-<small>**↑ Home Screen.** _Exploring the use of the red ribbon, we expanded its usage throughout many hud assets._</small>
+<small>**↑ Home Screen.** 
+
+    _Exploring the use of the red ribbon, we expanded its usage throughout many hud assets._</small>
 
 ![](/assets/images/bc_friendslist.png)
 
-<small>**↑Friends list.** _Friends that are online appear darker, while those that are offline have a faded appearance._</small>
+<small>**↑Friends list.** 
+
+    _Friends that are online appear darker, while those that are offline have a faded appearance._</small>
 
 ![](/assets/images/bc_phone3.png)
 
-<small>**↑ Queuing match.** _We expanded the use of the ribbon design and implementation. The queue search uses similar design elements from the previous screens._</small>
+<small>**↑ Queuing match.** 
+
+    _We expanded the use of the ribbon design and implementation. The queue search uses similar design elements from the previous screens._</small>
 
 ![](/assets/images/bc_phone4.png)
 
