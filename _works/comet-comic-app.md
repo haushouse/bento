@@ -74,7 +74,7 @@ for its ability to draw attention with a gradient was used to give the app a mor
 <figure class="flexImages">
 <img src="/assets/images/bc_phone1.png" alt="comet icon">
 <div>
-<img src="/assets/images/comet-icon.png" alt="different icon drafts">
+<img src="/assets/images/bc_phone1.png" alt="different icon drafts">
 <small>↑ previous icon design</small>
 </div>
 </figure>
