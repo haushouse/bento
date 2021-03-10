@@ -2,8 +2,8 @@
 layout: blog
 title: Comet App
 description: Rethinking comics and how we interact with them.
-cover_image: "/assets/images/parisTime.png"
-post_image: "/assets/images/comet-homescreens.png"
+cover_image: "/assets/images/bc_thumbnail.png"
+post_image: "/assets/images/bc_hero.png"
 project_link: https://xd.adobe.com/view/af7ccbd6-55b7-4aa4-702c-c7797b0533eb-d94d/
 order: 2
 context_work: Mobile app
