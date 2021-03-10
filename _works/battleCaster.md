@@ -54,21 +54,19 @@ opacity: 1; transform: scale(1);
 
 <ul class="glide__slides">
 
-<li class="glide__slide">
-
-<img src="/assets/images/bc_slider1.png" alt="first draft" style="text-align: center;">
-
-<small>Old mobile main-menu artwork.</small>
-
-</li>
-
-<li class="glide__slide" style="text-align: center;"> <img src="/assets/images/bc_slider2.png" alt="second draft">
+<li class="glide__slide" style="text-align: left;"> <img src="/assets/images/bc_slider1.png" alt="first draft">
 
 <small>Old design of the in-game desktop screen.</small>
 
 </li>
 
-<li class="glide__slide" style="text-align: center;"> <img src="/assets/images/bc_slider3.png" alt="third draft">
+<li class="glide__slide" style="text-align: left;"> <img src="/assets/images/bc_slider2.png" alt="second draft">
+
+<small>Old design of the in-game desktop screen.</small>
+
+</li>
+
+<li class="glide__slide" style="text-align: left;"> <img src="/assets/images/bc_slider3.png" alt="third draft">
 
 <small>Old magic scroll design.</small>
 
