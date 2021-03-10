@@ -158,7 +158,9 @@ After the contract with our client ended, they took the design assets we created
 
 ![](/assets/images/bc_devphone.png)
 
-<small>↑ In-game mobile view</small>
+<small>**↑ In-game mobile view**</small>
+
+<small>Group 6 used the assets we created for them and added their own style to it. The players hand is displayed in a fan-style, they used health bars that were created by their own design team, and the action buttons were simplified.</small>
 
 <script src="{{site.url}}/logic/glide.min.js"></script>
 <script>
