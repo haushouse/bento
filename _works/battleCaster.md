@@ -107,7 +107,7 @@ We used transparency and light to make the interface look more open and indicate
 
 While not in the initial brief. The design team felt that the current card design did not match the new UI assets and was not very legible when shrunk down to fit on the iPhone.
 
-![card designs](/assets/images/bc_cards.png)
+![](/assets/images/bc_cards-1.png)
 
 Some of the biggest changes were cleaning up the card shape and remove the textured background. To make the text more legible, we also bumped up the font size and removed unnecessary elements such as flavor text and artist description. Instead, those elements moved to the deck builder page. The team also moved the damage amount to the upper left to increase visibility.
 
