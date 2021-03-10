@@ -104,9 +104,7 @@ _<small>Exploring the use of the red ribbon, we expanded its usage throughout ma
 
 ![](/assets/images/bc_phone3.png)
 
-<small>**↑ Queuing match**</small>
-
-<small>_We expanded the use of the ribbon design and implementation. The queue search uses similar design elements from the previous screens._</small>
+<small>**↑ Queuing match**. _We expanded the use of the ribbon design and implementation. The queue search uses similar design elements from the previous screens._</small>
 
 ![](/assets/images/bc_phone4.png)
 
