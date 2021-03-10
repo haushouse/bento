@@ -2,7 +2,7 @@
 layout: blog
 card_size: medium
 title: Capstone
-description: UI Design / Branding
+description: Coming soon
 cover_image: ''
 post_image: ''
 project_link: ''
