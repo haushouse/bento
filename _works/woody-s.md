@@ -8,7 +8,9 @@ post_image: ''
 project_link: ''
 context_work: ''
 context_date: ''
-contribution: []
+contribution:
+- item: Branding
+- item: 3D Modeling
 collaborator: []
 
 ---
