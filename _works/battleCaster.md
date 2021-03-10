@@ -78,6 +78,8 @@ opacity: 1; transform: scale(1);
 
 </div>
 
+<small style="text-align: right; color: var(--ink-6); font-weight: 600; float: right; margin-right: 2rem;">drag, swipe or use arrow keys</small>
+
 </div>
 
 ### Wireframes
