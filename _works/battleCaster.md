@@ -99,34 +99,6 @@ For the new look, we kept the texture paper background. To make the most of the 
 ![starting design](/assets/images/bc_battlescreen.jpg)
 ![starting design](/assets/images/bc_mobileMenu.jpg)
 
-<style>
-.glide ul {
-max-width: initial;
-}
-.glide img {
-pointer-events: none;
-}
-.glide__slides {
-padding-left: 0;
-}
-.glide .glide__slide {
-opacity: 1;
-transform: scale(1);
-}
-</style>
-<div class="glide mt4">
-<div class="glide__track" data-glide-el="track">
-<ul class="glide__slides">
-<li class="glide__slide">
-<img src="/assets/images/ui_buttons.png" alt="first draft" style="text-align: center;">
-</li>
-<li class="glide__slide" style="text-align: center;">
-<img src="/assets/images/hp_bar_right.png" alt="second draft">
-</li>
-</ul>
-</div>
-</div>
-
 We used transparency and light to make the interface look more open and indicate information. To make sure that text would still be readable even on a light background we used subtle drop shadows and a slight blur effect along with a generous text-shadow.
 
 ## Cards
