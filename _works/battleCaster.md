@@ -130,6 +130,8 @@ After the contract with our client ended, they took the design assets we created
 
 ![](/assets/images/bc_devphone.png)
 
+<small>↑ In-game mobile view</small>
+
 <script src="{{site.url}}/logic/glide.min.js"></script>
 <script>
 var slide = new Glide(".glide", {
