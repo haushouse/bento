@@ -96,25 +96,25 @@ For the new look, we kept the texture paper background. To make the most of the 
 
 <small>**↑ Home Screen.** 
 
-    _Exploring the use of the red ribbon, we expanded its usage throughout many hud assets._</small>
+_Exploring the use of the red ribbon, we expanded its usage throughout many hud assets._</small>
 
 ![](/assets/images/bc_friendslist.png)
 
 <small>**↑Friends list.** 
 
-    _Friends that are online appear darker, while those that are offline have a faded appearance._</small>
+_Friends that are online appear darker, while those that are offline have a faded appearance._</small>
 
 ![](/assets/images/bc_phone3.png)
 
 <small>**↑ Queuing match.** 
 
-    _We expanded the use of the ribbon design and implementation. The queue search uses similar design elements from the previous screens._</small>
+_We expanded the use of the ribbon design and implementation. The queue search uses similar design elements from the previous screens._</small>
 
 ![](/assets/images/bc_phone4.png)
 
 <small>**↑ In-game.**
 
-    _The buttons and other hud assets utilize diamond shapes, the profile icons, action buttons and count down timer as well._</small>
+_The buttons and other hud assets utilize diamond shapes, the profile icons, action buttons and count down timer as well._</small>
 
 ![](/assets/images/bc_phone6.png)
 
