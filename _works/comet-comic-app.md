@@ -50,15 +50,15 @@ After Sketches a few rough ideas for the different screens. We took the best ide
 <div class="glide__track" data-glide-el="track">
 <ul class="glide__slides">
 <li class="glide__slide">
-<img src="/assets/images/comet_drafts01.png" alt="first draft">
+<img src="/assets/images/bc_phone1.png" alt="first draft">
 <small>The first draft of the Comet app placed a heavy focus on gesture based navigation and full-screen illustration from the comics. This direction did not test well users. With many participants having trouble finding and navigating to features.</small>
 </li>
 <li class="glide__slide">
-<img src="/assets/images/comet_drafts03.png" alt="second draft">
+<img src="/assets/images/bc_phone1.png" alt="second draft">
 <small>Second draft split navigation was tested better than the gesture navigation. But 32% of user-reported being confused about the spit segment control and how the bottom navigation worked. Users did respond well to the asymmetrical top image calling it modern looking.</small>
 </li>
 <li class="glide__slide">
-<img src="/assets/images/comet_drafts02.png" alt="third draft">
+<img src="/assets/images/bc_phone1.png" alt="third draft">
 <small>A smaller iteration change that kept the layout of the last version while trying to address the navigation issue. While users were able to navigate better than the last version. The user reported the brightly color interface was distracting and took away from the art.</small>
 </li>
 </ul>
@@ -72,14 +72,14 @@ A strong geometrical shape with subtle page-flipping elements creates purposeful
 for its ability to draw attention with a gradient was used to give the app a more modern feel.
 
 <figure class="flexImages">
-<img src="/assets/images/comet_icon.png" alt="comet icon">
+<img src="/assets/images/bc_phone1.png" alt="comet icon">
 <div>
 <img src="/assets/images/comet-icon.png" alt="different icon drafts">
 <small>↑ previous icon design</small>
 </div>
 </figure>
 <figure>
-<img src="/assets/images/comet-colors.png" alt="comet icon">
+<img src="/assets/images/bc_phone1.png" alt="comet icon">
 </figure>
 
 ### Final Screens
@@ -94,28 +94,28 @@ all corners rounded to give a playful and friendly feel.
 
 <figure class="flexImages">
 <div>
-<img src="/assets/images/comet-onboard.png" alt="onboarding screens">
+<img src="/assets/images/bc_phone1.png" alt="onboarding screens">
 <small>↑ Onboarding Screens</small>
 </div>
 <div>
-<img src="/assets/images/comet-recover.png" alt="onboarding screens">
+<img src="/assets/images/bc_phone1.png" alt="onboarding screens">
 <small>↑ Recover Account Screens</small>
 </div>
 </figure>
 <figure class="flexImages">
 <div>
-<img src="/assets/images/comet-homescreens.png" alt="onboarding screens">
+<img src="/assets/images/bc_phone1.png" alt="onboarding screens">
 <small>↑ Home, Comic Series & Notifications Pages</small>
 </div>
 <div>
-<img src="/assets/images/comet_reader.png" alt="onboarding screens">
+<img src="/assets/images/bc_phone1.png" alt="onboarding screens">
 <small>↑ Comic Reader Pages</small>
 </div>
 </figure>
 
 <figure class="flexImages">
 <div>
-<img src="/assets/images/comet-store.png" alt="store pages">
+<img src="/assets/images/bc_phone1.png" alt="store pages">
 <small>↑ Author Store pages & Shopping Cart</small>
 </div>
 <div>
