@@ -94,31 +94,33 @@ For the new look, we kept the texture paper background. To make the most of the 
 
 ![](/assets/images/bc_phone1.png)
 
-<small>**↑ Home Screen.** 
+<small>**↑ Home Screen**</small>
 
-_Exploring the use of the red ribbon, we expanded its usage throughout many hud assets._</small>
+_<small>Exploring the use of the red ribbon, we expanded its usage throughout many hud assets._</small>
 
 ![](/assets/images/bc_friendslist.png)
 
-<small>**↑Friends list.** 
+<small>**↑Friends list**</small>
 
-_Friends that are online appear darker, while those that are offline have a faded appearance._</small>
+<small>_Friends that are online appear darker, while those that are offline have a faded appearance._</small>
 
 ![](/assets/images/bc_phone3.png)
 
-<small>**↑ Queuing match.** 
+<small>**↑ Queuing match**</small>
 
-_We expanded the use of the ribbon design and implementation. The queue search uses similar design elements from the previous screens._</small>
+<small>_We expanded the use of the ribbon design and implementation. The queue search uses similar design elements from the previous screens._</small>
 
 ![](/assets/images/bc_phone4.png)
 
-<small>**↑ In-game.**
+<small>**↑ In-game**</small>
 
-_The buttons and other hud assets utilize diamond shapes, the profile icons, action buttons and count down timer as well._</small>
+<small>_The buttons and other hud assets utilize diamond shapes, the profile icons, action buttons and count down timer as well._</small>
 
 ![](/assets/images/bc_phone6.png)
 
-<small>**↑ In-game drop-down menu.** _The ribbon drops down and inverts the direction of the arrows._</small>
+<small>**↑ In-game drop-down menu**</small>
+
+<small>_The ribbon drops down and inverts the direction of the arrows._</small>
 
 We used transparency and light to make the interface look more open and indicate information. To make sure that text would still be readable even on a light background we used subtle drop shadows and a slight blur effect along with a generous text-shadow.
 
