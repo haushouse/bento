@@ -128,7 +128,7 @@ While not in the initial brief, the design team felt that the current card desig
 
 ![](/assets/images/bc_cards-1.png)
 
-<small>↑ Card redesign</small>
+<small>**↑ Card redesign.** _We simplified the card design by shortening the card description, removing the flavor text and artist credit. The important information was relocated at the top left corner._</small>
 
 Some of the biggest changes were cleaning up the card shape and remove the textured background. To make the text more legible, we also bumped up the font size and removed unnecessary elements such as flavor text and artist description. Instead, those elements moved to the deck builder page. The team also moved the damage amount to the upper left to increase visibility.
 
