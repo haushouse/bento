@@ -82,10 +82,24 @@ For the new look, we kept the texture paper background. To make the most of the 
 
 ![](/assets/images/bc_phone1.png)
 
+<small>↑ Home Screen</small>
+
 ![starting design](/assets/images/bc_mobileFriends.jpg)
-![starting design](/assets/images/bc_mobileStart.jpg)
+
+<small>↑Friends list</small>
+
+![](/assets/images/bc_phone3.png)
+
+<small>↑ Queuing match</small>
+
+
 ![starting design](/assets/images/bc_battlescreen.jpg)
-![starting design](/assets/images/bc_mobileMenu.jpg)
+
+<small>↑ In-game</small>
+
+![](/assets/images/bc_phone6.png)
+
+<small>↑ In-game drop-down menu</small>
 
 We used transparency and light to make the interface look more open and indicate information. To make sure that text would still be readable even on a light background we used subtle drop shadows and a slight blur effect along with a generous text-shadow.
 
