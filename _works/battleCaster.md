@@ -84,7 +84,7 @@ For the new look, we kept the texture paper background. To make the most of the 
 
 <small>↑ Home Screen</small>
 
-![starting design](/assets/images/bc_mobileFriends.jpg)
+![](/assets/images/bc_friendslist.png)
 
 <small>↑Friends list</small>
 
