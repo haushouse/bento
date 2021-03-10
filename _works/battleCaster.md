@@ -136,6 +136,10 @@ Some of the biggest changes were cleaning up the card shape and remove the textu
 
 ![](/assets/images/bc_cardinfo.png)
 
+<small>**↑ Card details**</small>
+
+<small>We removed the flavor text and artist credit from the card and displayed it in the deck builder.</small>
+
 ## Symbols
 
 The last component of the card we changed was the element symbols. The original symbols were more artistry rendered but did not scale well when smaller than 32px. Therefore a team member came up with a simpler flatter, more scalable symbol.
@@ -148,7 +152,9 @@ After the contract with our client ended, they took the design assets we created
 
 ![](/assets/images/bc_desktopingame.png)
 
-<small>↑ In-game desktop view</small>
+<small>**↑ In-game desktop view**</small>
+
+<small>Group 6 used the assets we created for them and added their own style to it. The players hand is displayed in a fan-style, they used health bars that were created by their own design team, and the action buttons were simplified.</small>
 
 ![](/assets/images/bc_devphone.png)
 
