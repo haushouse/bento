@@ -64,6 +64,10 @@ opacity: 1; transform: scale(1);
 
 </li>
 
+<li class="glide__slide" style="text-align: center;"> <img src="/assets/images/bc_oldcards.png" alt="second draft">
+
+</li>
+
 </ul>
 
 </div>
