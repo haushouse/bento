@@ -17,7 +17,7 @@ collaborator:
 footer: true
 slider: true
 color: "#DAA428"
-published: false
+card_size: ''
 
 ---
 ### The Objective
