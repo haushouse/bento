@@ -104,7 +104,7 @@ We used transparency and light to make the interface look more open and indicate
 
 ## Cards
 
-While not in the initial brief. The design team felt that the current card design did not match the new UI assets and was not very legible when shrunk down to fit on the iPhone.
+While not in the initial brief, the design team felt that the current card design did not match the new UI assets and was not very legible when shrunk down to fit a mobile phone screen.
 
 ![](/assets/images/bc_cards-1.png)
 
@@ -118,7 +118,7 @@ Some of the biggest changes were cleaning up the card shape and remove the textu
 
 The last component of the card we changed was the element symbols. The original symbols were more artistry rendered but did not scale well when smaller than 32px. Therefore a team member came up with a simpler flatter, more scalable symbol.
 
-![element symbols](/assets/images/bc_symbols.png)
+![](/assets/images/bc_iconsize.png)![](/assets/images/bc_symbols-1.png)
 
 <script src="{{site.url}}/logic/glide.min.js"></script>
 <script>
