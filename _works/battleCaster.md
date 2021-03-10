@@ -113,7 +113,7 @@ While not in the initial brief. The design team felt that the current card desig
 
 Some of the biggest changes were cleaning up the card shape and remove the textured background. To make the text more legible, we also bumped up the font size and removed unnecessary elements such as flavor text and artist description. Instead, those elements moved to the deck builder page. The team also moved the damage amount to the upper left to increase visibility.
 
-![card infomation](/assets/images/bc_cardInfo.jpg)
+![](/assets/images/bc_cardinfo.png)
 
 ## Symbols
 
