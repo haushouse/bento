@@ -56,7 +56,7 @@ opacity: 1; transform: scale(1);
 
 <li class="glide__slide">
 
-<img src="/assets/images/bc_slider1.png" alt="first draft" style="text-align: left;">
+<img src="/assets/images/bc_slider1.png" alt="first draft" style="text-align: center;">
 
 <small>Old mobile main-menu artwork.</small>
 
