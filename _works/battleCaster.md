@@ -80,7 +80,9 @@ At the start of the project, they showed our team the current prototype game. Ho
 
 For the new look, we kept the texture paper background. To make the most of the screen and maximize the amount of battlefield a player can see at any given time, we made elements transparent and pushed them off-screen when not active. We positioned these interactive elements at the bottom of the screen to make it easier to hit with one’s fingers.
 
-For the new look, we kept the texture paper background. To make the most of the screen and maximize the amount of the battlefield a player can see at any given time, we made elements transparent and pushed them off-screen when not active. We positioned these interactive elements at the bottom of the screen to make it easier to hit with one's fingers. ![starting design](/assets/images/bc_mobileFriends.jpg)
+For the new look, we kept the texture paper background. To make the most of the screen and maximize the amount of the battlefield a player can see at any given time, we made elements transparent and pushed them off-screen when not active. We positioned these interactive elements at the bottom of the screen to make it easier to hit with one's fingers. 
+
+![starting design](/assets/images/bc_mobileFriends.jpg)
 ![starting design](/assets/images/bc_mobileStart.jpg)
 ![starting design](/assets/images/bc_battlescreen.jpg)
 ![starting design](/assets/images/bc_mobileMenu.jpg)
