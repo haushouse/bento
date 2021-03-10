@@ -42,16 +42,7 @@ Simplifying the interface was a key goal in this project. To achieve this, I fla
 Comet went through a few rounds of designs and different directions. With each design getting tested by a group of over 20 college students to
 test the usability and visual look.
 
-<figure class="flexImages">
-<div>
-<img src="/assets/images/comet-drawings.jpg" alt="onboarding screens">
-<small>↑ Early Icon Sketches</small>
-</div>
-<div>
-<img src="/assets/images/comet-prototype.jpg" alt="onboarding screens">
-<small>↑ Paper Screen Test</small>
-</div>
-</figure>
+<figure class="flexImages"> <div> <img src="/assets/images/bc_phone1.png" alt="onboarding screens"> <small>↑ Early Icon Sketches</small> </div> <div> <img src="/assets/images/bc_phone1.png" alt="onboarding screens"> <small>↑ Paper Screen Test</small> </div> </figure>
 
 After Sketches a few rough ideas for the different screens. We took the best ideas and turned them in medium level fidelity mockups before coming to final designs.
 
