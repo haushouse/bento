@@ -8,7 +8,9 @@ post_image: "/assets/images/airbnb_hero.png"
 project_link: ''
 context_work: ''
 context_date: ''
-contribution: []
+contribution:
+- item: Interface Design
+- item: User Experience
 collaborator: []
 
 ---
