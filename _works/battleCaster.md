@@ -96,7 +96,7 @@ For the new look, we kept the texture paper background. To make the most of the 
 
 <small>**↑ Home Screen**</small>
 
-_<small>Exploring the use of the red ribbon, we expanded its usage throughout many hud assets._</small>
+<small>_Exploring the use of the red ribbon, we expanded its usage throughout many hud assets._</small>
 
 ![](/assets/images/bc_friendslist.png)
 
