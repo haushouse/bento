@@ -11,6 +11,7 @@ context_date: ''
 contribution:
 - item: Interface Design
 - item: User Experience
+- item: Branding
 collaborator: []
 
 ---
