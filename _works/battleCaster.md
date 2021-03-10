@@ -92,8 +92,7 @@ For the new look, we kept the texture paper background. To make the most of the 
 
 <small>↑ Queuing match</small>
 
-
-![starting design](/assets/images/bc_battlescreen.jpg)
+![](/assets/images/bc_phone4.png)
 
 <small>↑ In-game</small>
 
