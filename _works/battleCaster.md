@@ -112,7 +112,9 @@ For the new look, we kept the texture paper background. To make the most of the 
 
 ![](/assets/images/bc_phone4.png)
 
-<small>↑ In-game</small>
+<small>**↑ In-game.**
+
+    _The buttons and other hud assets utilize diamond shapes, the profile icons, action buttons and count down timer as well._</small>
 
 ![](/assets/images/bc_phone6.png)
 
