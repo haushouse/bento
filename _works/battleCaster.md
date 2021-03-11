@@ -160,11 +160,11 @@ After the contract with our client ended, they took the design assets we created
 
 <figure class="flexImages">
 
-<div> <img src="/assets/images/bc_store.png" alt="desktop store"> <small>↑ In-game desktop view</small>
+<div> <img src="/assets/images/bc_store.png" alt="desktop store"> <small>↑ Desktop store view</small>
 
 </div>
 
-<div> <img src="/assets/images/bc_deckbuilder.png" alt="desktop store"> <small>↑ In-game mobile view</small>
+<div> <img src="/assets/images/bc_deckbuilder.png" alt="desktop deck builder"> <small>↑ Desktop deck builder</small>
 
 </div>
 
