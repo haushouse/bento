@@ -164,7 +164,7 @@ After the contract with our client ended, they took the design assets we created
 
 </div>
 
- <div> <img src="/assets/images/bc_phone1.png" alt="onboarding screens"> <small>↑ Recover Account Screens</small> 
+ <div> <img src="/assets/images/bc_devphone.png" alt="onboarding screens"> <small>↑ Recover Account Screens</small> 
 
 </div> 
 
