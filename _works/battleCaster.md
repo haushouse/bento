@@ -90,6 +90,30 @@ At the start of the project, they showed our team the current prototype game. Ho
 
 For the new look, we kept the texture paper background. To make the most of the screen and maximize the amount of battlefield a player can see at any given time, we made elements transparent and pushed them off-screen when not active. We positioned these interactive elements at the bottom of the screen to make it easier to hit with one’s fingers.
 
+<figure class="flexImages">
+
+<div> <img src="/assets/images/bc_phone1.png" alt="mobile Home Screen"> <small>↑ Mobile home screen</small>
+
+</div>
+
+<div> <img src="/assets/images/bc_deckbuilder.png" alt="desktop deck builder"> <small>↑ Desktop deck builder</small>
+
+</div>
+
+</figure>
+
+<figure class="flexImages">
+
+<div> <img src="/assets/images/bc_desktopingame.png" alt="onboarding screens"> <small>↑ In-game desktop view</small>
+
+</div>
+
+<div> <img src="/assets/images/bc_devphone.png" alt="onboarding screens"> <small>↑ In-game mobile view</small>
+
+</div>
+
+</figure>
+
 ![](/assets/images/bc_phone1.png)
 
 ##### **↑ Home Screen**
