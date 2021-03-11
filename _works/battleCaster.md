@@ -146,18 +146,6 @@ The last component of the card we changed was the element symbols. The original 
 
 After the contract with our client ended, they took the design assets we created and implemented them into their game. While Group 6 liked what we created, they adjusted the assets to their own liking.
 
-![](/assets/images/bc_desktopingame.png)
-
-<small>**↑ In-game desktop view**</small>
-
-<small>Group 6 used the assets we created for them and added their own style to it. The players hand is displayed in a fan-style, they used health bars that were created by their own design team, and the action buttons were simplified.</small>
-
-![](/assets/images/bc_devphone.png)
-
-<small>**↑ In-game mobile view**</small>
-
-<small>Group 6 used the assets we created for them and added their own style to it. The players hand is displayed in a fan-style, they used health bars that were created by their own design team, and the action buttons were simplified.</small>
-
 <figure class="flexImages">
 
  <div> <img src="/assets/images/bc_desktopingame.png" alt="onboarding screens"> <small>↑ In-game desktop view</small> 
