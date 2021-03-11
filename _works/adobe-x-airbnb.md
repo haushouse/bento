@@ -26,7 +26,7 @@ Comet serves the comic-reading community by establishing trust through engaging 
 
 Simplifying the interface was a key goal in this project. To achieve this, I flattened and combined pages to reduce the use of the back button.
 
-<figure> <img src="/assets/images/airbnb_before.png" alt="flowchart"> <small>↑ The Final Flowchart</small> </figure>
+<figure> <img src="/assets/images/airbnb_before.png" alt="flowchart"> <small>↑ First iteration</small> </figure>
 
 ### Iterations
 
