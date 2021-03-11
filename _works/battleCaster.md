@@ -136,6 +136,18 @@ Some of the biggest changes were cleaning up the card shape and remove the textu
 
 <small>We removed the flavor text and artist credit from the card and displayed it in the deck builder.</small>
 
+<figure class="flexImages">
+
+ <div> <img src="/assets/images/bc_deckbuilder1.png" alt="onboarding screens"> <small>↑ Deck builder draft 1</small> 
+
+</div>
+
+ <div> <img src="/assets/images/bc_deckbuilder2.png" alt="onboarding screens"> <small>↑ Deck builder draft 2</small> 
+
+</div> 
+
+</figure>
+
 ## Symbols
 
 The last component of the card we changed was the element symbols. The original symbols were more artistry rendered but did not scale well when smaller than 32px. Therefore a team member came up with a simpler flatter, more scalable symbol.
