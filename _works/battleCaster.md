@@ -160,11 +160,11 @@ After the contract with our client ended, they took the design assets we created
 
 <figure class="flexImages">
 
- <div> <img src="/assets/images/bc_desktopingame.png" alt="onboarding screens"> <small>↑ Onboarding Screens</small> 
+ <div> <img src="/assets/images/bc_desktopingame.png" alt="onboarding screens"> <small>↑ In-game desktop view</small> 
 
 </div>
 
- <div> <img src="/assets/images/bc_devphone.png" alt="onboarding screens"> <small>↑ Recover Account Screens</small> 
+ <div> <img src="/assets/images/bc_devphone.png" alt="onboarding screens"> <small>↑ In-game mobile view</small> 
 
 </div> 
 
