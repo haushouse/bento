@@ -160,7 +160,7 @@ After the contract with our client ended, they took the design assets we created
 
 <figure class="flexImages">
 
- <div> <img src="/assets/images/bc_phone1.png" alt="onboarding screens"> <small>↑ Onboarding Screens</small> 
+ <div> <img src="/assets/images/bc_desktopingame.png" alt="onboarding screens"> <small>↑ Onboarding Screens</small> 
 
 </div>
 
