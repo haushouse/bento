@@ -114,23 +114,17 @@ For the new look, we kept the texture paper background. To make the most of the 
 
 </figure>
 
-![](/assets/images/bc_phone1.png)
+<figure class="flexImages">
 
-##### **↑ Home Screen**
+<div> <img src="/assets/images/bc_phone3.png" alt="mobile queue match"> <small>↑ Mobile queuing match</small>
 
-##### _Exploring the use of the red ribbon, we expanded its usage throughout many hud assets._
+</div>
 
-![](/assets/images/bc_friendslist.png)
+<div> <img src="/assets/images/bc_phone4.png" alt="mobile in-game"> <small>↑ In-game mobile view</small>
 
-<small>**↑Friends list**</small>
+</div>
 
-<small>_Friends that are online appear darker, while those that are offline have a faded appearance._</small>
-
-![](/assets/images/bc_phone3.png)
-
-<small>**↑ Queuing match**. _We expanded the use of the ribbon design and implementation. The queue search uses similar design elements from the previous screens._</small>
-
-![](/assets/images/bc_phone4.png)
+</figure>
 
 <small>**↑ In-game**</small>
 
