@@ -138,13 +138,13 @@ Some of the biggest changes were cleaning up the card shape and remove the textu
 
 <figure class="flexImages">
 
- <div> <img src="/assets/images/bc_deckbuilder1.png" alt="onboarding screens"> <small>↑ Deck builder draft 1</small> 
+<div> <img src="/assets/images/bc_deckbuilder1.png" alt="deck builder 1"> <small>↑ Deck builder draft 1</small>
 
 </div>
 
- <div> <img src="/assets/images/bc_deckbuilder2.png" alt="onboarding screens"> <small>↑ Deck builder draft 2</small> 
+<div> <img src="/assets/images/bc_deckbuilder2.png" alt="deck builder 2"> <small>↑ Deck builder draft 2</small>
 
-</div> 
+</div>
 
 </figure>
 
@@ -160,13 +160,13 @@ After the contract with our client ended, they took the design assets we created
 
 <figure class="flexImages">
 
- <div> <img src="/assets/images/bc_desktopingame.png" alt="onboarding screens"> <small>↑ In-game desktop view</small> 
+<div> <img src="/assets/images/bc_desktopingame.png" alt="onboarding screens"> <small>↑ In-game desktop view</small>
 
 </div>
 
- <div> <img src="/assets/images/bc_devphone.png" alt="onboarding screens"> <small>↑ In-game mobile view</small> 
+<div> <img src="/assets/images/bc_devphone.png" alt="onboarding screens"> <small>↑ In-game mobile view</small>
 
-</div> 
+</div>
 
 </figure>
 
