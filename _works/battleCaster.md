@@ -104,11 +104,11 @@ For the new look, we kept the texture paper background. To make the most of the 
 
 <figure class="flexImages">
 
-<div> <img src="/assets/images/bc_phone3.png" alt="mobile queue match"> <small>↑ Mobile queuing match</small>
+<div> <img src="/assets/images/bc_options.png" alt="mobile queue match"> <small>↑ Mobile queuing match</small>
 
 </div>
 
-<div> <img src="/assets/images/bc_phone4.png" alt="mobile in-game"> <small>↑ In-game mobile view</small>
+<div> <img src="/assets/images/bc_phone3.png" alt="mobile in-game"> <small>↑ In-game mobile view</small>
 
 </div>
 
@@ -116,11 +116,11 @@ For the new look, we kept the texture paper background. To make the most of the 
 
 <figure class="flexImages">
 
-<div> <img src="/assets/images/bc_phone3.png" alt="mobile queue match"> <small>↑ Mobile queuing match</small>
+<div> <img src="/assets/images/bc_phone4.png" alt="mobile queue match"> <small>↑ Mobile queuing match</small>
 
 </div>
 
-<div> <img src="/assets/images/bc_phone4.png" alt="mobile in-game"> <small>↑ In-game mobile view</small>
+<div> <img src="/assets/images/bc_phone6.png" alt="mobile in-game"> <small>↑ In-game mobile view</small>
 
 </div>
 
