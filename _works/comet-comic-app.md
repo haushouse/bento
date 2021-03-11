@@ -18,7 +18,6 @@ footer: true
 slider: true
 color: "#DAA428"
 card_size: medium
-published: false
 
 ---
 ### The Objective
