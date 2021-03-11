@@ -160,6 +160,18 @@ After the contract with our client ended, they took the design assets we created
 
 <figure class="flexImages">
 
+<div> <img src="/assets/images/bc_store.png" alt="desktop store"> <small>↑ In-game desktop view</small>
+
+</div>
+
+<div> <img src="/assets/images/bc_deckbuilder.png" alt="desktop store"> <small>↑ In-game mobile view</small>
+
+</div>
+
+</figure>
+
+<figure class="flexImages">
+
 <div> <img src="/assets/images/bc_desktopingame.png" alt="onboarding screens"> <small>↑ In-game desktop view</small>
 
 </div>
