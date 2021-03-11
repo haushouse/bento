@@ -96,7 +96,7 @@ For the new look, we kept the texture paper background. To make the most of the 
 
 </div>
 
-<div> <img src="/assets/images/bc_phone2.png" alt="mobile friends list"> <small>↑ Mobile friends list</small>
+<div> <img src="/assets/images/bc_friendslist.png" alt="mobile friends list"> <small>↑ Mobile friends list</small>
 
 </div>
 
