@@ -94,7 +94,7 @@ For the new look, we kept the texture paper background. To make the most of the 
 
 {% include caption.html sideBySide=true url="/assets/images/bc_friendslist.png" description="Mobile friends list.<br> The last component of the card we changed was the element symbols." %} 
 
-{% include caption.html sideBySide=true url="/assets/images/bc_options.png" description="Mobile options.<br> The last component of the card we changed was the element symbols." %} 
+{% include caption.html sideBySide=true url="/assets/images/bc_options.png" description="Mobile options.<br> The options screen utilizes the same banner design as the previous screens." %} 
 
 {% include caption.html sideBySide=true url="/assets/images/bc_phone3.png" description="Mobile queue match.<br> The last component of the card we changed was the element symbols." %} 
 
