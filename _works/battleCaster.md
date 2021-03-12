@@ -172,10 +172,9 @@ After the contract with our client ended, they took the design assets we created
 
 this is a section break.
 
-{% include caption.html sideBySide=false url="/assets/images/bc_store.png" description="Desktop store view The last component of the card we changed was the element symbols." %}
-{% include caption.html sideBySide=true url="/assets/images/bc_store.png" description="Desktop store view The last component of the card we changed was the element symbols." %}
-{% include caption.html sideBySide=true url="/assets/images/bc_store.png" description="Desktop store view The last component of the card we changed was the element symbols." %}
-{% include caption.html sideBySide=true url="/assets/images/bc_store.png" description="Desktop store view The last component of the card we changed was the element symbols. The original symbols were more artistry rendered but did not scale well when smaller than 32px. Therefore a team member came up with a simpler flatter, more scalable symbol." %}
+{% include caption.html sideBySide=false url="/assets/images/bc_store.png" description="Desktop store view_The last component of the card we changed was the element symbols." %} {% include caption.html sideBySide=true url="/assets/images/bc_store.png" description="Desktop store view The last component of the card we changed was the element symbols." %} {% include caption.html sideBySide=true url="/assets/images/bc_store.png" description="Desktop store view The last component of the card we changed was the element symbols." %} {% include caption.html sideBySide=true url="/assets/images/bc_store.png" description="Desktop store view_.
+
+ The last component of the card we changed was the element symbols. The original symbols were more artistry rendered but did not scale well when smaller than 32px. Therefore a team member came up with a simpler flatter, more scalable symbol." %}
 
 <figure class="flexImages">
 
