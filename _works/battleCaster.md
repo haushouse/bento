@@ -94,7 +94,9 @@ For the new look, we kept the texture paper background. To make the most of the 
 
 {% include caption.html sideBySide=true url="/assets/images/bc_friendslist.png" description="Mobile friends list.<br> The last component of the card we changed was the element symbols." %} 
 
-{% include caption.html sideBySide=true url="/assets/images/bc_phone3.png" description="Desktop store view.<br> The last component of the card we changed was the element symbols." %} {% include caption.html sideBySide=true url="/assets/images/bc_desktopingame.png" description="Desktop store view The last component of the card we changed was the element symbols. The original symbols were more artistry rendered but did not scale well when smaller than 32px. Therefore a team member came up with a simpler flatter, more scalable symbol." %}
+{% include caption.html sideBySide=true url="/assets/images/bc_phone3.png" description="Desktop store view.<br> The last component of the card we changed was the element symbols." %} 
+
+{% include caption.html sideBySide=true url="/assets/images/bc_desktopingame.png" description="Desktop store view The last component of the card we changed was the element symbols. The original symbols were more artistry rendered but did not scale well when smaller than 32px. Therefore a team member came up with a simpler flatter, more scalable symbol." %}
 
 We used transparency and light to make the interface look more open and indicate information. To make sure that text would still be readable even on a light background we used subtle drop shadows and a slight blur effect along with a generous text-shadow.
 
