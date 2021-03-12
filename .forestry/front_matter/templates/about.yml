@@ -1,0 +1,24 @@
+---
+label: About
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+  hidden: true
+  default: about
+- type: text
+  name: title
+  label: title
+- type: text
+  name: callout
+  label: callout
+- type: file
+  name: about_photo
+  label: about_photo
+- type: text
+  name: permalink
+  label: permalink
+- type: boolean
+  name: grid_border
+  label: grid_border

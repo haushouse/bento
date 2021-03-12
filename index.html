@@ -1,17 +1,18 @@
 ---
 layout: default
-title: "Home"
+title: Home
 description: Simple by design.
-working_copy: I am a digital designer that focuses on simple clear experiences.
+working_copy: I am a digital designer that focuses on clear and simple experiences.
 grid_border: true
 featuredlinks:
-    - link: Email
-      url: 
-    - link: About me
-      url: /About
-    - link: Resume
----
+- link: About me
+  url: "/About"
+- link: Resume
 
+---
+<style>
+.fourbygrid { grid-auto-flow: dense; }
+</style>
 <header class="fourbygrid p0 xlgItem minheight">
 
   <div class="lgItem flex flex-column justify-center smFill smborderright">
@@ -46,10 +47,10 @@ featuredlinks:
       {% endif %}">
       <div>
         <small class="caps bold">
-          {% if forloop.index0 < 9 %}
-            0{{ forloop.index0 }}
+          {% if forloop.index < 9 %}
+            0{{ forloop.index }}
           {% else %}
-            {{ forloop.index0 }}
+            {{ forloop.index }}
           {% endif %}
         </small>
         <p class="mb1">{{ work.title }}</p>

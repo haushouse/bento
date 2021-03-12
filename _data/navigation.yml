@@ -1,6 +1,9 @@
-- page: "About"
+---
+- page: About
   url: "/about"
-- page: "Instagram"
-  url: "https://www.instagram.com/hello_lorem/"
-- page: "Dribbble"
-  url: "https://dribbble.com/hello_lorem"
+- page: LinkedIn
+  url: https://www.linkedin.com/in/derek-liu-design/
+- page: Instagram
+  url: https://www.instagram.com/derekliu.design
+- page: Dribbble
+  url: https://dribbble.com/derek-liu

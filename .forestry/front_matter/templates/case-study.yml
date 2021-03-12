@@ -1,0 +1,69 @@
+---
+label: Case Study
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+  hidden: true
+  default: blog
+- type: text
+  name: title
+  label: title
+- name: card_size
+  type: select
+  default: []
+  config:
+    required: false
+    options:
+    - small
+    - medium
+    - large
+    - xlarge
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: card size
+  description: How big the case study card shows on homepage.
+- type: text
+  name: description
+  label: description
+- type: file
+  name: cover_image
+  label: homepage image
+- type: file
+  name: post_image
+  label: hero image
+- type: text
+  name: project_link
+  label: project_link
+- type: text
+  name: context_work
+  label: context_work
+- type: text
+  name: context_date
+  label: context_date
+- type: field_group_list
+  name: contribution
+  label: contribution
+  fields:
+  - type: text
+    name: item
+    label: item
+- type: field_group_list
+  name: collaborator
+  label: collaborator
+  fields:
+  - type: text
+    name: team
+    label: team
+pages:
+- _works/adobe-x-airbnb.md
+- _works/battleCaster.md
+- _works/capstone.md
+- _works/comet-comic-app.md
+- _works/hot-pot.md
+- _works/punchclock.md
+- _works/woody-s.md
