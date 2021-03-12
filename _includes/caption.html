@@ -1,7 +1,8 @@
-<figure class="image sideBySide">
-    <img src="{{ include.url }}" alt="{{ include.description }}">
-    <figcaption>
-        <p>↑</p>
-        <p>{{ include.description }}</p>
-    </figcaption>
-  </figure>
+
+<figure class="image {% if include.sideBySide == true or include.sideBySide == 'true' %} sideBySide {% endif %}">
+    <img src="{{ include.url }}" alt="{{ include.description }}">
+    <figcaption>
+        <p>↑</p>
+        <p>{{ include.description }}</p>
+    </figcaption>
+</figure>

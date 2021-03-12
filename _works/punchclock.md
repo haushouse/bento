@@ -79,35 +79,3 @@ I knew from the beginning that I wanted to make the Punch Clock interface straig
 Punch Clock pushed my development skills to a new level. While I am used to prototyping user interfaces in HTML and CSS I rarely use JavaScript. 
 
 The two biggest achievements were the ability to save and read data to the user's computer which eliminated the need for a backend or user accounts – and the battery saving feature. The app functions just like a regular punch clock recording a clock-in and a clock-out and subtracting the difference hence the name of the app.
-
-
-  <script src="{{site.url}}/logic/glide.min.js"></script>
-  <script>
-  var slide = new Glide(".glide", {
-    perView: 2,
-    gap: 24,
-    focusAt: 'center',
-    keyboard: true,
-    rewind: true,
-    bound: true,
-    autoheight: true,
-    bound: 'true',
-    perTouch: 1,
-    touchRatio: 1,
-    focusAt: 'center',
-    peak: {
-      before: 0,
-      after: 0,
-    },
-    breakpoints: {
-      600: {
-        gap: 4,
-        peek: {
-          before: 0,
-          after: 48,
-        },
-        perView: 1,
-      }
-    },
-}).mount();
-  </script>

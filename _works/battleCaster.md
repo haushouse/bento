@@ -168,7 +168,10 @@ The last component of the card we changed was the element symbols. The original 
 
 After the contract with our client ended, they took the design assets we created and implemented them into their game. While Group 6 liked what we created, they adjusted the assets to their own liking.
 
-{% include caption.html url="/assets/images/bc_store.png" description="Desktop store view" %}
+{% include caption.html sideBySide=false url="/assets/images/bc_store.png" description="Desktop store view The last component of the card we changed was the element symbols." %}
+{% include caption.html sideBySide=true url="/assets/images/bc_store.png" description="Desktop store view The last component of the card we changed was the element symbols." %}
+{% include caption.html sideBySide=true url="/assets/images/bc_store.png" description="Desktop store view The last component of the card we changed was the element symbols." %}
+{% include caption.html sideBySide=true url="/assets/images/bc_store.png" description="Desktop store view The last component of the card we changed was the element symbols. The original symbols were more artistry rendered but did not scale well when smaller than 32px. Therefore a team member came up with a simpler flatter, more scalable symbol." %}
 
 <figure class="flexImages">
 
@@ -194,33 +197,3 @@ After the contract with our client ended, they took the design assets we created
 
 </figure>
 
-<script src="{{site.url}}/logic/glide.min.js"></script>
-<script>
-var slide = new Glide(".glide", {
-perView: 2,
-gap: 24,
-focusAt: 'center',
-keyboard: true,
-rewind: true,
-bound: true,
-autoheight: true,
-bound: 'true',
-perTouch: 1,
-touchRatio: 1,
-focusAt: 'center',
-peak: {
-before: 0,
-after: 0,
-},
-breakpoints: {
-600: {
-gap: 4,
-peek: {
-before: 0,
-after: 48,
-},
-perView: 1,
-}
-},
-}).mount();
-</script>

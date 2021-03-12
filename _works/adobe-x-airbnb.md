@@ -25,8 +25,7 @@ Comet serves the comic-reading community by establishing trust through engaging 
 ### Flowchart
 
 Simplifying the interface was a key goal in this project. To achieve this, I flattened and combined pages to reduce the use of the back button.
-
-<figure> <img src="/assets/images/airbnb_before.png" alt="flowchart"> <small>↑ First iteration</small> </figure>
+{% include caption.html sideBySide=false url="/assets/images/airbnb_before.png" description="First iteration" %}
 
 ### Iterations
 
@@ -61,5 +60,3 @@ After the release, we interviewed 30+ of our BlueStacks TV users from all over t
 Customize their stream to make it look more appealing to their viewers Notify streamers when they receive a new follower More detailed stream settings Adjust mic, game, and system volume Option to select which webcam and/or microphone to use
 
 Comet is still in development -->
-
-<script src="{{site.url}}/logic/glide.min.js"></script> <script> var slide = new Glide(".glide", { perView: 2, gap: 24, focusAt: 'center', keyboard: true, rewind: true, bound: true, autoheight: true, bound: 'true', perTouch: 1, touchRatio: 1, focusAt: 'center', peak: { before: 0, after: 0, }, breakpoints: { 600: { gap: 4, peek: { before: 0, after: 48, }, perView: 1, } }, }).mount(); </script>
