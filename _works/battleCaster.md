@@ -98,6 +98,8 @@ For the new look, we kept the texture paper background. To make the most of the 
 
 {% include caption.html sideBySide=true url="/assets/images/bc_phone4.png" description="Mobile in-game.<br> The last component of the card we changed was the element symbols. The original symbols were more artistry rendered but did not scale well when smaller than 32px. Therefore a team member came up with a simpler flatter, more scalable symbol." %}
 
+{% include caption.html sideBySide=true url="/assets/images/bc_phone6.png" description="Mobile in-game drop-down.<br> The last component of the card we changed was the element symbols. The original symbols were more artistry rendered but did not scale well when smaller than 32px. Therefore a team member came up with a simpler flatter, more scalable symbol." %}
+
 We used transparency and light to make the interface look more open and indicate information. To make sure that text would still be readable even on a light background we used subtle drop shadows and a slight blur effect along with a generous text-shadow.
 
 ## Cards
