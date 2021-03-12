@@ -16,7 +16,7 @@ collaborator: []
 ---
 ### Adobe Creative Jam + Airbnb
 
-Adobe teamed up with Airbnb to foster design thinking, and show off new talent. They held a nation wide competition in 2020 to see how we could create new ways for friends and family to travel together and share photos when booking through Airbnb and using Adobe’s new Prototyping software, XD.
+Adobe teamed up with Airbnb to foster design thinking, and show off new talent. They held a nation wide competition in 2020 to see how we could create new ways for friends and family to travel together and share photos when booking through Airbnb and using Adobe’s new Prototyping software, XD. Happy Paris Time!
 
 ### The Solution
 
