@@ -90,7 +90,7 @@ At the start of the project, they showed our team the current prototype game. Ho
 
 For the new look, we kept the texture paper background. To make the most of the screen and maximize the amount of battlefield a player can see at any given time, we made elements transparent and pushed them off-screen when not active. We positioned these interactive elements at the bottom of the screen to make it easier to hit with one’s fingers.
 
-{% include caption.html sideBySide=false url="/assets/images/bc_phone1.png" description="Desktop store view. The last component of the card we changed was the element symbols." %} {% include caption.html sideBySide=true url="/assets/images/bc_store.png" description="Desktop store view The last component of the card we changed was the element symbols." %} 
+{% include caption.html sideBySide=false url="/assets/images/bc_phone1.png" description="Mobile main menu. The last component of the card we changed was the element symbols." %} {% include caption.html sideBySide=true url="/assets/images/bc_store.png" description="Desktop store view The last component of the card we changed was the element symbols." %} 
 
 {% include caption.html sideBySide=true url="/assets/images/bc_phone3.png" description="Desktop store view.<br> The last component of the card we changed was the element symbols." %} {% include caption.html sideBySide=true url="/assets/images/bc_desktopingame.png" description="Desktop store view The last component of the card we changed was the element symbols. The original symbols were more artistry rendered but did not scale well when smaller than 32px. Therefore a team member came up with a simpler flatter, more scalable symbol." %}
 
