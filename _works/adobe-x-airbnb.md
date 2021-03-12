@@ -41,18 +41,6 @@ After Sketches a few rough ideas for the different screens. We took the best ide
 
 A strong geometrical shape with subtle page-flipping elements creates purposeful movement while calling back to the comic reader theme. A subtle gradient background allows the Comet badge to pop off the background, improving its presence on various assets like app icons and favicons. A yellow and mustard gradient was picked for its ability to draw attention with a gradient was used to give the app a more modern feel.
 
-<figure class="flexImages"> 
-
-<img src="/assets/images/bc_phone1.png" alt="different icon drafts"> <small>↑ previous icon design</small> 
-
-<div> 
-
-<img src="/assets/images/bc_phone1.png" alt="different icon drafts"> <small>↑ previous icon design</small> 
-
-</div> 
-
-</figure> 
-
 <figure> <img src="/assets/images/airbnb_before.png" alt="early drafts"> </figure>
 
 ### Final Screens
