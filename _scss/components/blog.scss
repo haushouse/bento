@@ -1,0 +1,6 @@
+.sideBySide + .sideBySide {
+        display: inline-block;
+        width: 45%;
+    }
+    .sideBySide figcaption { display: flex; justify-content: center; }
+    .sideBySide figcaption p { margin: 1rem .75rem; font-size: 1.4rem;}
