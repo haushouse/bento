@@ -90,41 +90,9 @@ At the start of the project, they showed our team the current prototype game. Ho
 
 For the new look, we kept the texture paper background. To make the most of the screen and maximize the amount of battlefield a player can see at any given time, we made elements transparent and pushed them off-screen when not active. We positioned these interactive elements at the bottom of the screen to make it easier to hit with one’s fingers.
 
-<figure class="flexImages">
+{% include caption.html sideBySide=false url="/assets/images/bc_phone1.png" description="Desktop store view. The last component of the card we changed was the element symbols." %} {% include caption.html sideBySide=true url="/assets/images/bc_store.png" description="Desktop store view The last component of the card we changed was the element symbols." %} 
 
-<div> <img src="/assets/images/bc_phone1.png" alt="mobile Home Screen"> <small>↑ Mobile home screen</small>
-
-</div>
-
-<div> <img src="/assets/images/bc_friendslist.png" alt="mobile friends list"> <small>↑ Mobile friends list</small>
-
-</div>
-
-</figure>
-
-<figure class="flexImages">
-
-<div> <img src="/assets/images/bc_options.png" alt="mobile queue match"> <small>↑ Mobile queuing match</small>
-
-</div>
-
-<div> <img src="/assets/images/bc_phone3.png" alt="mobile in-game"> <small>↑ In-game mobile view</small>
-
-</div>
-
-</figure>
-
-<figure class="flexImages">
-
-<div> <img src="/assets/images/bc_phone4.png" alt="mobile queue match"> <small>↑ Mobile queuing match</small>
-
-</div>
-
-<div> <img src="/assets/images/bc_phone6.png" alt="mobile in-game"> <small>↑ In-game mobile view</small>
-
-</div>
-
-</figure>
+{% include caption.html sideBySide=true url="/assets/images/bc_phone3.png" description="Desktop store view.<br> The last component of the card we changed was the element symbols." %} {% include caption.html sideBySide=true url="/assets/images/bc_desktopingame.png" description="Desktop store view The last component of the card we changed was the element symbols. The original symbols were more artistry rendered but did not scale well when smaller than 32px. Therefore a team member came up with a simpler flatter, more scalable symbol." %}
 
 We used transparency and light to make the interface look more open and indicate information. To make sure that text would still be readable even on a light background we used subtle drop shadows and a slight blur effect along with a generous text-shadow.
 
