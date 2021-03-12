@@ -53,7 +53,7 @@ A strong geometrical shape with subtle page-flipping elements creates purposeful
 
 </figure> 
 
-<figure> <img src="/assets/images/airbnb_before.png" alt="comet icon"> </figure>
+<figure> <img src="/assets/images/airbnb_before.png" alt="early drafts"> </figure>
 
 ### Final Screens
 
