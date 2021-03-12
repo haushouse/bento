@@ -136,34 +136,3 @@ Adjust mic, game, and system volume
 Option to select which webcam and/or microphone to use
 
 Comet is still in development -->
-
-<script src="{{site.url}}/logic/glide.min.js"></script>
-<script>
-var slide = new Glide(".glide", {
-perView: 2,
-gap: 24,
-focusAt: 'center',
-keyboard: true,
-rewind: true,
-bound: true,
-autoheight: true,
-bound: 'true',
-perTouch: 1,
-touchRatio: 1,
-focusAt: 'center',
-peak: {
-before: 0,
-after: 0,
-},
-breakpoints: {
-600: {
-gap: 4,
-peek: {
-before: 0,
-after: 48,
-},
-perView: 1,
-}
-},
-}).mount();
-</script>
