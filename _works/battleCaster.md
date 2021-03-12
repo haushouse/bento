@@ -94,6 +94,8 @@ For the new look, we kept the texture paper background. To make the most of the 
 
 {% include caption.html sideBySide=true url="/assets/images/bc_friendslist.png" description="Mobile friends list.<br> The last component of the card we changed was the element symbols." %} 
 
+{% include caption.html sideBySide=true url="/assets/images/bc_options.png" description="Mobile options.<br> The last component of the card we changed was the element symbols." %} 
+
 {% include caption.html sideBySide=true url="/assets/images/bc_phone3.png" description="Mobile queue match.<br> The last component of the card we changed was the element symbols." %} 
 
 {% include caption.html sideBySide=true url="/assets/images/bc_phone4.png" description="Mobile in-game.<br> The last component of the card we changed was the element symbols. The original symbols were more artistry rendered but did not scale well when smaller than 32px. Therefore a team member came up with a simpler flatter, more scalable symbol." %}
