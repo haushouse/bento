@@ -105,11 +105,4 @@ h3 {
   max-width: 56ch;
   margin: auto auto 2rem;
 }
- 
 }
-.sideBySide + .sideBySide {
-        display: inline-block;
-        width: 45%;
-    }
-    .sideBySide figcaption { display: flex; justify-content: center; }
-    .sideBySide figcaption p { margin: 1rem .75rem; font-size: 1.4rem;}
