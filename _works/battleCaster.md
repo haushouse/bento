@@ -92,7 +92,7 @@ For the new look, we kept the texture paper background. To make the most of the 
 
 {% include caption.html sideBySide=true url="/assets/images/bc_phone1.png" description="Mobile main menu.<br> We decided to explore the usage of the ribbon from our wireframes, building assets to match the style and sharpness of the angles." %} 
 
-{% include caption.html sideBySide=true url="/assets/images/bc_friendslist.png" description="Mobile friends list.<br> The last component of the card we changed was the element symbols." %} 
+{% include caption.html sideBySide=true url="/assets/images/bc_friendslist.png" description="**Mobile friends list.**<br> The last component of the card we changed was the element symbols." %} 
 
 {% include caption.html sideBySide=true url="/assets/images/bc_options.png" description="Mobile options.<br> The options screen utilizes the same banner design as the previous screens." %} 
 
