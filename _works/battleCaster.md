@@ -126,7 +126,7 @@ The last component of the card we changed was the element symbols. The original 
 
 ## Development
 
-After the contract with our client ended, they took the design assets we created and implemented them into their game. While Group 6 liked what we created, they adjusted the assets to their own liking.
+After the contract with our client ended, they took the design assets we created and implemented them into their game. While Group 6 liked what we created, they adjusted the assets to their own liking. **They modified our designs into their game, the following designs were not created by me.**
 
 <figure class="flexImages">
 
