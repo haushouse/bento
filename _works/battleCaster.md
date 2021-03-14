@@ -108,7 +108,7 @@ We used transparency and light to make the interface look more open and indicate
 
 While not in the initial brief, the design team felt that the current card design did not match the new UI assets and was not very legible when shrunk down to fit a mobile phone screen.
 
-![](/assets/images/bc_cards-1.png)
+<figure> <img src="/assets/images/bcCards.png" alt="card redesign"> </figure>
 
 <small>**↑ Card redesign.**</small>
 
