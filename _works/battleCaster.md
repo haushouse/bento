@@ -96,7 +96,7 @@ For the new look, we kept the texture paper background. To make the most of the 
 
 {% include caption.html sideBySide=true url="/assets/images/bc_options.png" title="placeholder" description="Mobile options. The options screen utilizes the same banner design as the previous screens." %}
 
-{% include caption.html sideBySide=true url="/assets/images/bc_phone3.png" title="placeholder" description="Mobile queue match. After pressing the "Start Battle" button, the interface takes the player to this screen. The player has the option to challenge other online players, train their strategic skills, or walk through a tutorial." %}
+{% include caption.html sideBySide=true url="/assets/images/bc_phone3.png" title="placeholder" description="Mobile queue match. After pressing the Start Battle button, the interface takes the player to this screen. The player has the option to challenge other online players, train their strategic skills, or walk through a tutorial." %}
 
 {% include caption.html sideBySide=true url="/assets/images/bc_phone4.png" title="placeholder" description="Mobile in-game. The buttons and other hud assets utilize diamond shapes, the profile icons action button and count down timer as well." %}
 
@@ -146,7 +146,7 @@ After the contract with our client ended, they took the design assets we created
 
 {% include caption.html sideBySide=false url="/assets/images/bc_phone1.png" title="placeholder" description="Desktop store view. The last component of the card we changed was the element symbols." %} {% include caption.html sideBySide=true url="/assets/images/bc_store.png" description="Desktop store view The last component of the card we changed was the element symbols." %}
 
-{% include caption.html sideBySide=true url="/assets/images/bc_phone3.png" title="placeholder" description="Desktop store view. The last component of the card we changed was the element symbols." %} 
+{% include caption.html sideBySide=true url="/assets/images/bc_phone3.png" title="placeholder" description="Desktop store view. The last component of the card we changed was the element symbols." %}
 
 {% include caption.html sideBySide=true url="/assets/images/bc_desktopingame.png" title="placeholder"description="Desktop store view The last component of the card we changed was the element symbols." %}
 
