@@ -148,7 +148,7 @@ After the contract with our client ended, they took the design assets we created
 
 {% include caption.html sideBySide=true url="/assets/images/bc_phone3.png" title="placeholder" description="Desktop store view. The last component of the card we changed was the element symbols." %}
 
-{% include caption.html sideBySide=true url="/assets/images/bc_desktopingame.png" title="placeholder"description="Desktop store view The last component of the card we changed was the element symbols." %}
+{% include caption.html sideBySide=true url="/assets/images/bc_desktopingame.png" title="placeholder" description="Desktop store view The last component of the card we changed was the element symbols." %}
 
 <figure class="flexImages">
 
