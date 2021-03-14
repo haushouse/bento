@@ -126,28 +126,12 @@ The last component of the card we changed was the element symbols. The original 
 
 ## Development
 
-After the contract with our client ended, they took the design assets we created and implemented them into their game. While Group 6 liked what we created, they adjusted the assets to their own liking. **They modified our designs into their game, the following designs were not created by me.**
+After the contract with our client ended, they took the design assets we created and implemented them into their game. While Group 6 liked what we created, **they modified our designs into their game. The following designs were not created by us.**
 
-<figure class="flexImages">
+{% include caption.html sideBySide=false url="/assets/images/bcStore.png" title="Desktop Store View" description="We removed the flavor text and artist credit from the card and displayed it in the deck builder." %}
 
-<div> <img src="/assets/images/bc_store.png" alt="desktop store"> <small>↑ Desktop store view</small>
+{% include caption.html sideBySide=true url="/assets/images/bcDesktopDeckBuilder.png" title="Desktop Deck Builder" description="" %}
 
-</div>
+{% include caption.html sideBySide=true url="/assets/images/bcDesktopInGame.png" title="Desktop In-Game View" description="" %}
 
-<div> <img src="/assets/images/bc_deckbuilder.png" alt="desktop deck builder"> <small>↑ Desktop deck builder</small>
-
-</div>
-
-</figure>
-
-<figure class="flexImages">
-
-<div> <img src="/assets/images/bc_desktopingame.png" alt="onboarding screens"> <small>↑ In-game desktop view</small>
-
-</div>
-
-<div> <img src="/assets/images/bc_devphone.png" alt="onboarding screens"> <small>↑ In-game mobile view</small>
-
-</div>
-
-</figure>
+{% include caption.html sideBySide=true url="/assets/images/bcMobileInGame.png" title="Mobile In-Game View" description="" %}
