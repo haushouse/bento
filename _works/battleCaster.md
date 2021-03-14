@@ -144,12 +144,6 @@ The last component of the card we changed was the element symbols. The original 
 
 After the contract with our client ended, they took the design assets we created and implemented them into their game. While Group 6 liked what we created, they adjusted the assets to their own liking.
 
-{% include caption.html sideBySide=false url="/assets/images/bc_phone1.png" title="placeholder" description="Desktop store view. The last component of the card we changed was the element symbols." %} {% include caption.html sideBySide=true url="/assets/images/bc_store.png" description="Desktop store view The last component of the card we changed was the element symbols." %}
-
-{% include caption.html sideBySide=true url="/assets/images/bc_phone3.png" title="placeholder" description="Desktop store view. The last component of the card we changed was the element symbols." %}
-
-{% include caption.html sideBySide=true url="/assets/images/bc_desktopingame.png" title="placeholder" description="Desktop store view The last component of the card we changed was the element symbols." %}
-
 <figure class="flexImages">
 
 <div> <img src="/assets/images/bc_store.png" alt="desktop store"> <small>↑ Desktop store view</small>
