@@ -90,17 +90,17 @@ At the start of the project, they showed our team the current prototype game. Ho
 
 For the new look, we kept the texture paper background. To make the most of the screen and maximize the amount of battlefield a player can see at any given time, we made elements transparent and pushed them off-screen when not active. We positioned these interactive elements at the bottom of the screen to make it easier to hit with one’s fingers.
 
-{% include caption.html sideBySide=true url="/assets/images/bc_phone1.png" title="Mobile Home Screen" description="Mobile main menu. We decided to explore the usage of the ribbon from our wireframes, building assets to match the style and sharpness of the angles." %}
+{% include caption.html sideBySide=true url="/assets/images/bc_phone1.png" title="Mobile Home Screen" description="We decided to explore the usage of the ribbon from our wireframes, building assets to match the style and sharpness of the angles." %}
 
-{% include caption.html sideBySide=true url="/assets/images/bc_friendslist.png" title="Friends List" description="Mobile friends list. Friends that are online appear darker, while those that are offline will appear faded." %}
+{% include caption.html sideBySide=true url="/assets/images/bc_friendslist.png" title="Friends List" description="Friends that are online appear darker, while those that are offline will appear faded." %}
 
-{% include caption.html sideBySide=true url="/assets/images/bc_options.png" title="Play Options" description="Mobile options. The options screen utilizes the same banner design as the previous screens." %}
+{% include caption.html sideBySide=true url="/assets/images/bc_options.png" title="Play Options" description="The options screen utilizes the same banner design as the previous screens." %}
 
-{% include caption.html sideBySide=true url="/assets/images/bc_phone3.png" title="Queue Match" description="Mobile queue match. After pressing the Start Battle button, the interface takes the player to this screen. The player has the option to challenge other online players, train their strategic skills, or walk through a tutorial." %}
+{% include caption.html sideBySide=true url="/assets/images/bc_phone3.png" title="Queue Match" description="After pressing the Start Battle button, the interface takes the player to this screen. The player has the option to challenge other online players, train their strategic skills, or walk through a tutorial." %}
 
-{% include caption.html sideBySide=true url="/assets/images/bc_phone4.png" title="Mobile In-Game" description="Mobile in-game. The buttons and other hud assets utilize diamond shapes, the profile icons action button and count down timer as well." %}
+{% include caption.html sideBySide=true url="/assets/images/bc_phone4.png" title="Mobile In-Game" description="The buttons and other hud assets utilize diamond shapes, the profile icons action button and count down timer as well." %}
 
-{% include caption.html sideBySide=true url="/assets/images/bc_phone6.png" title="In-Game Drop-Down" description="Mobile in-game drop-down. The ribbon drops down and inverts the direction of the arrow." %}
+{% include caption.html sideBySide=true url="/assets/images/bc_phone6.png" title="In-Game Drop-Down" description="The ribbon drops down and inverts the direction of the arrow." %}
 
 We used transparency and light to make the interface look more open and indicate information. To make sure that text would still be readable even on a light background we used subtle drop shadows and a slight blur effect along with a generous text-shadow.
 
@@ -112,7 +112,7 @@ While not in the initial brief, the design team felt that the current card desig
 
 Some of the biggest changes were cleaning up the card shape and remove the textured background. To make the text more legible, we also bumped up the font size and removed unnecessary elements such as flavor text and artist description. Instead, those elements moved to the deck builder page. The team also moved the damage amount to the upper left to increase visibility.
 
-{% include caption.html sideBySide=false url="/assets/images/bc_cardInfo.png" title="card details" description="We removed the flavor text and artist credit from the card and displayed it in the deck builder." %}
+{% include caption.html sideBySide=false url="/assets/images/bc_cardInfo.png" title="Card Details" description="We removed the flavor text and artist credit from the card and displayed it in the deck builder." %}
 
 {% include caption.html sideBySide=true url="/assets/images/bcDeckBuilder1.png" title="Mobile Deck Builder Draft 1" description="" %}
 
