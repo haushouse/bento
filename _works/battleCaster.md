@@ -90,17 +90,17 @@ At the start of the project, they showed our team the current prototype game. Ho
 
 For the new look, we kept the texture paper background. To make the most of the screen and maximize the amount of battlefield a player can see at any given time, we made elements transparent and pushed them off-screen when not active. We positioned these interactive elements at the bottom of the screen to make it easier to hit with one’s fingers.
 
-{% include caption.html sideBySide=true url="/assets/images/bc_phone1.png" description="<strong>Mobile main menu.</strong><br> We decided to explore the usage of the ribbon from our wireframes, building assets to match the style and sharpness of the angles." %}
+{% include caption.html sideBySide=true url="/assets/images/bc_phone1.png" description="Mobile main menu. We decided to explore the usage of the ribbon from our wireframes, building assets to match the style and sharpness of the angles." %}
 
-{% include caption.html sideBySide=true url="/assets/images/bc_friendslist.png" description="Mobile friends list.<br>Friends that are online appear darker, while those that are offline will appear faded." %}
+{% include caption.html sideBySide=true url="/assets/images/bc_friendslist.png" description="Mobile friends list. Friends that are online appear darker, while those that are offline will appear faded." %}
 
-{% include caption.html sideBySide=true url="/assets/images/bc_options.png" description="Mobile options.<br> The options screen utilizes the same banner design as the previous screens." %}
+{% include caption.html sideBySide=true url="/assets/images/bc_options.png" description="Mobile options. The options screen utilizes the same banner design as the previous screens." %}
 
-{% include caption.html sideBySide=true url="/assets/images/bc_phone3.png" description="Mobile queue match.<br> After pressing the "Start Battle" button, the interface takes the player to this screen. The player has the option to challenge other online players, train their strategic skills, or walk through a tutorial." %}
+{% include caption.html sideBySide=true url="/assets/images/bc_phone3.png" description="Mobile queue match. After pressing the "Start Battle" button, the interface takes the player to this screen. The player has the option to challenge other online players, train their strategic skills, or walk through a tutorial." %}
 
-{% include caption.html sideBySide=true url="/assets/images/bc_phone4.png" description="Mobile in-game.<br> The buttons and other hud assets utilize diamond shapes, the profile icons action button and count down timer as well." %}
+{% include caption.html sideBySide=true url="/assets/images/bc_phone4.png" description="Mobile in-game. The buttons and other hud assets utilize diamond shapes, the profile icons action button and count down timer as well." %}
 
-{% include caption.html sideBySide=true url="/assets/images/bc_phone6.png" description="Mobile in-game drop-down.<br> The ribbon drops down and inverts the direction of the arrow." %}
+{% include caption.html sideBySide=true url="/assets/images/bc_phone6.png" description="Mobile in-game drop-down. The ribbon drops down and inverts the direction of the arrow." %}
 
 We used transparency and light to make the interface look more open and indicate information. To make sure that text would still be readable even on a light background we used subtle drop shadows and a slight blur effect along with a generous text-shadow.
 
