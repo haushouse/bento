@@ -112,7 +112,7 @@ While not in the initial brief, the design team felt that the current card desig
 
 Some of the biggest changes were cleaning up the card shape and remove the textured background. To make the text more legible, we also bumped up the font size and removed unnecessary elements such as flavor text and artist description. Instead, those elements moved to the deck builder page. The team also moved the damage amount to the upper left to increase visibility.
 
-{% include caption.html sideBySide=false url="/assets/images/bc_friendslist.png" title="Friends List" description="Mobile friends list. Friends that are online appear darker, while those that are offline will appear faded." %}
+{% include caption.html sideBySide=false url="/assets/images/bc_cardInfo.png" title="card details" description="We removed the flavor text and artist credit from the card and displayed it in the deck builder." %}
 
 <figure class="flexImages">
 
