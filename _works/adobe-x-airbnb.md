@@ -24,8 +24,9 @@ Comet serves the comic-reading community by establishing trust through engaging 
 
 ## Flowchart
 
-Simplifying the interface was a key goal in this project. To achieve this, I flattened and combined pages to reduce the use of the back button.
-{% include caption.html sideBySide=false url="/assets/images/airbnb_before.png" description="First iteration" %}
+Simplifying the interface was a key goal in this project. To achieve this, I flattened and combined pages to reduce the use of the back button. 
+
+{% include caption.html sideBySide=false url="/assets/images/airbnb_before.png" title="placeholder" description="First iteration" %}
 
 ## Iterations
 
