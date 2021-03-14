@@ -130,7 +130,7 @@ After the contract with our client ended, they took the design assets we created
 
 {% include caption.html sideBySide=true url="/assets/images/bcStore.png" title="Desktop Store View" description="Group 6 used a lot of our hud assets and design elements." %}
 
-{% include caption.html sideBySide=true url="/assets/images/bcDesktopDeckBuilder.png" title="Desktop Deck Builder" description="Group 6 used a lot of our hud assets and design elements." %}
+{% include caption.html sideBySide=true url="/assets/images/bcDesktopDeckBuilder.png.png" title="Desktop Deck Builder" description="Group 6 used a lot of our hud assets and design elements." %}
 
 {% include caption.html sideBySide=true url="/assets/images/bcDesktopInGame.png" title="Desktop In-Game View" description="Group 6 used the assets we created for them and added their own style to it. The players hand is displayed in a fan-style, they used health bars that were created on their own design team, and the action buttons were simplified." %}
 
