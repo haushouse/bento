@@ -128,7 +128,7 @@ The last component of the card we changed was the element symbols. The original 
 
 After the contract with our client ended, they took the design assets we created and implemented them into their game. While Group 6 liked what we created, **they modified our designs into their game. The following designs were not created by us.**
 
-{% include caption.html sideBySide=false url="/assets/images/bcStore.png" title="Desktop Store View" description="Group 6 used a lot of our hud assets and design elements." %}
+{% include caption.html sideBySide=true url="/assets/images/bcStore.png" title="Desktop Store View" description="Group 6 used a lot of our hud assets and design elements." %}
 
 {% include caption.html sideBySide=true url="/assets/images/bcDesktopDeckBuilder.png" title="Desktop Deck Builder" description="Group 6 used a lot of our hud assets and design elements." %}
 
