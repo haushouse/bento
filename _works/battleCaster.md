@@ -114,17 +114,9 @@ Some of the biggest changes were cleaning up the card shape and remove the textu
 
 {% include caption.html sideBySide=false url="/assets/images/bc_cardInfo.png" title="card details" description="We removed the flavor text and artist credit from the card and displayed it in the deck builder." %}
 
-<figure class="flexImages">
+{% include caption.html sideBySide=true url="/assets/images/bcDeckBuilder1.png" title="Mobile Deck Builder Draft 1" description="" %}
 
-<div> <img src="/assets/images/bc_deckbuilder1.png" alt="deck builder 1"> <small>↑ Deck builder draft 1</small>
-
-</div>
-
-<div> <img src="/assets/images/bc_deckbuilder2.png" alt="deck builder 2"> <small>↑ Deck builder draft 2</small>
-
-</div>
-
-</figure>
+{% include caption.html sideBySide=true url="/assets/images/bcDeckBuilder2.png" title="Mobile Deck Builder Draft 2" description="" %}
 
 ## Symbols
 
