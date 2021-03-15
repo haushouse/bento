@@ -45,6 +45,10 @@ An iconic cooking ware paired with a classic checkered pattern creates an immedi
 
 After initial sketches, I focused on the idea of a rice cooker to represent the icon of the app. I found that a more traditional rice cooker best resembles a hot pot. The background grid laid over a beige gradient gives the icon more depth and better unifies the appearance with other iOS apps on the market.
 
+### Interface Design
+
+Several screens with different designs were creaed to get a sense of how the app might appear moving forward. We focused on creating a clean and straight forward design for all users. During the research phase, we came to the conclusion that users would like the implementation of voice control, creating a hands free app that helps the user focus on their task.
+
 ### Final Screens
 
 The following screens are examples of what the user will see when navigating certain parts of the app, not all screens are displayed in this case study.
