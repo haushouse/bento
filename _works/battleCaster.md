@@ -54,15 +54,15 @@ opacity: 1; transform: scale(1);
 
 <ul class="glide__slides">
 
-<li class="glide__slide" style="text-align: left;"> <img src="/assets/images/bc_slider1.png" alt="first draft">
-
-<small>This artwork was created for the mobile home screen and was given to us by the client. </small>
-
-</li>
-
 <li class="glide__slide" style="text-align: left;"> <img src="/assets/images/bc_slider2.png" alt="second draft">
 
 <small>The featured image showcases the in-game screen. This project focuses on redesigning the hud assets of the game.</small>
+
+</li>
+
+<li class="glide__slide" style="text-align: left;"> <img src="/assets/images/bc_slider1.png" alt="first draft">
+
+<small>This artwork was created for the mobile home screen and was given to us by the client. </small>
 
 </li>
 
