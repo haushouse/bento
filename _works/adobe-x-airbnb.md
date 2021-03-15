@@ -20,6 +20,8 @@ Adobe teamed up with Airbnb to foster design thinking, and show off new talent. 
 
 ## Iterations
 
+Due to the quick 48 hour turn around time we had during this Creative Jam, our team did not go through many iterations. We focused on laying out components in the interface that would make sense to the viewer before focusing on a solid design direction.
+
 <figure> <img src="/assets/images/airbnb_before.png" alt="early drafts"> </figure>
 
 {% include caption.html sideBySide=true url="/assets/images/airbnbDraft1.png" title="Onboarding Iterations" description="Onboarding images." %}
