@@ -98,13 +98,13 @@ For the new look, we kept the texture paper background. To make the most of the 
 
 We used transparency and light to make the interface look more open and indicate information. To make sure that text would still be readable even on a light background we used subtle drop shadows and a slight blur effect along with a generous text-shadow.
 
-## Cards
+## Card Redesign
 
 While not in the initial brief, the design team felt that the current card design did not match the new UI assets and was not very legible when shrunk down to fit a mobile phone screen.
 
 <figure> <img src="/assets/images/bcCards.png" alt="card redesign"> </figure>
 
-Some of the biggest changes were cleaning up the card shape and remove the textured background. To make the text more legible, we also bumped up the font size and removed unnecessary elements such as flavor text and artist description. Instead, those elements moved to the deck builder page. The team also moved the damage amount to the upper left to increase visibility.
+Some of the biggest changes were cleaning up the card shape and remove the textured background. To make the text more legible, we increased the font size and removed unnecessary elements such as flavor text and artist description. Instead, those elements were moved to the deck builder page. The team also moved the damage amount to the upper left to increase visibility.
 
 {% include caption.html sideBySide=false url="/assets/images/bc_cardInfo.png" title="Card Details" description="We removed the flavor text and artist credit from the card and displayed it in the deck builder." %}
 
@@ -122,7 +122,7 @@ The last component of the card we changed was the element symbols. The original 
 
 ## Development
 
-After the contract with our client ended, they took the design assets we created and implemented them into their game. While Group 6 liked what we created, they modified our designs into their game. **The following screens were not created by us, and is currently in development.**
+After the contract with our client ended, they took the design assets we created and implemented them into their game. While the client liked what we created, they modified our designs into their game. **The following screens were not created by the design team, and is currently in development by Group 6.**
 
 {% include caption.html sideBySide=true url="/assets/images/bcStore.png" title="Desktop Store" description="Group 6 used a lot of our hud assets and design elements." %}
 
