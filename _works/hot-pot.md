@@ -53,6 +53,6 @@ The following screens are examples of what the user will see when navigating cer
 
 {% include caption.html sideBySide=true url="/assets/images/hpFinalScreen2.png" title="Sign Up, Discover & Recipe" description="Friends that are online appear darker, while those that are offline will appear faded." %}
 
-{% include caption.html sideBySide=true url="/assets/images/hpFinalScreen1.png" title="Cooking Instructions" description="We decided to explore the usage of the ribbon from our wireframes, building assets to match the style and sharpness of the angles." %}
+{% include caption.html sideBySide=true url="/assets/images/hpFinalScreen3.png" title="Cooking Instructions" description="We decided to explore the usage of the ribbon from our wireframes, building assets to match the style and sharpness of the angles." %}
 
-{% include caption.html sideBySide=true url="/assets/images/hpFinalScreen2.png" title="Pantry Screens" description="Friends that are online appear darker, while those that are offline will appear faded." %}
+{% include caption.html sideBySide=true url="/assets/images/hpFinalScreen4.png" title="Pantry Screens" description="Friends that are online appear darker, while those that are offline will appear faded." %}
