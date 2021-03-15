@@ -1,6 +1,6 @@
 ---
 layout: blog
-card_size: medium
+card_size: small
 title: Capstone
 description: Coming soon
 cover_image: "/assets/images/cthumbnail.png"
