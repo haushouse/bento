@@ -30,15 +30,15 @@ Due to the quick 48 hour turn around time we had during this Creative Jam, our t
 
 ## Final Screens
 
-Create daily agendas to keep everyone interested, find your travel mates on the map to keep in touch when they do their own activities and discover new activites along the way.   
-  
+Create daily agendas to keep everyone interested, find your travel mates on the map to keep in touch when they do their own activities and discover new activites along the way.
+
 The idea of keeping connected was the focus of this app. We wanted our users to have the most flexibility when traveling with a group. Planning trips can be very stressful, so we wanted to give out users as few obligations as possible. When travel mates go on their own activities, we wanted our users to easily find them for safety and communication, Maps makes trip planning fast and easy. It can be difficult to find new things to do when traveling, so the Discover feature allows everyone to explore.
 
 {% include caption.html sideBySide=true url="/assets/images/airbnb1.png" title="Onboarding Screens" description="Onboarding images." %}
 
 {% include caption.html sideBySide=true url="/assets/images/airbnb2.png" title="Booking Stays" description="Creating travel plans with friends and family." %}
 
-{% include caption.html sideBySide=true url="/assets/images/airbnb3.png" title="Event Planning" description="Onboarding images." %}
+{% include caption.html sideBySide=true url="/assets/images/airbnb3.png" title="Event Planning" description="Create scheduled events and plan adventures with your travel party. This app allows users to track their travel party in case the group splits up or if anyone gets lost." %}
 
 {% include caption.html sideBySide=true url="/assets/images/airbnb4.png" title="Callouts" description="Creating travel plans with friends and family." %}
 
