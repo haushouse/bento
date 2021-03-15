@@ -83,21 +83,21 @@ opacity: 1; transform: scale(1);
 
 <ul class="glide__slides">
 
-<li class="glide__slide" style="text-align: left;"> <img src="/assets/images/hpFinalScreen2.png" alt="first draft">
+<li class="glide__slide" style="text-align: left;"> <img src="/assets/images/hpIteration1.png" alt="first iteration">
 
-<small>Artwork given to us from our client. The artwork was created for the mobile home screen.</small>
-
-</li>
-
-<li class="glide__slide" style="text-align: left;"> <img src="/assets/images/hpFinalScreen2.png" alt="second draft">
-
-<small>Old design of the in-game desktop screen.</small>
+<small>Placeholder text.</small>
 
 </li>
 
-<li class="glide__slide" style="text-align: left;"> <img src="/assets/images/hpFinalScreen2.png" alt="third draft">
+<li class="glide__slide" style="text-align: left;"> <img src="/assets/images/hpIteration2.png" alt="second iteration">
 
-<small>Old magic scroll design.</small>
+<small>Placeholder text.</small>
+
+</li>
+
+<li class="glide__slide" style="text-align: left;"> <img src="/assets/images/hpIteration1.png" alt="third draft">
+
+<small>Placeholder Text.</small>
 
 </li>
 
