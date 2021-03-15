@@ -49,6 +49,66 @@ After initial sketches, I focused on the idea of a rice cooker to represent the 
 
 Several screens with different designs were creaed to get a sense of how the app might appear moving forward. We focused on creating a clean and straight forward design for all users. During the research phase, we came to the conclusion that users would like the implementation of voice control, creating a hands free app that helps the user focus on their task.
 
+<style>
+
+.glide ul {
+
+max-width: initial;
+
+}
+
+.glide img {
+
+pointer-events: none;
+
+}
+
+.glide__slides {
+
+padding-left: 0;
+
+}
+
+.glide .glide__slide {
+
+opacity: 1; transform: scale(1);
+
+}
+
+</style>
+
+<div class="glide mt4">
+
+<div class="glide__track" data-glide-el="track">
+
+<ul class="glide__slides">
+
+<li class="glide__slide" style="text-align: left;"> <img src="/assets/images/hpFinalScreen2.png" alt="first draft">
+
+<small>Artwork given to us from our client. The artwork was created for the mobile home screen.</small>
+
+</li>
+
+<li class="glide__slide" style="text-align: left;"> <img src="/assets/images/hpFinalScreen2.png" alt="second draft">
+
+<small>Old design of the in-game desktop screen.</small>
+
+</li>
+
+<li class="glide__slide" style="text-align: left;"> <img src="/assets/images/hpFinalScreen2.png" alt="third draft">
+
+<small>Old magic scroll design.</small>
+
+</li>
+
+</ul>
+
+</div>
+
+<small style="text-align: center; color: var(--ink-6); font-weight: 600; display: block;">drag, swipe or use arrow keys</small>
+
+</div>
+
 ### Final Screens
 
 The following screens are examples of what the user will see when navigating certain parts of the app, not all screens are displayed in this case study.
