@@ -56,19 +56,13 @@ opacity: 1; transform: scale(1);
 
 <li class="glide__slide" style="text-align: left;"> <img src="/assets/images/bc_slider1.png" alt="first draft">
 
-<small>Artwork given to us from our client. The artwork was created for the mobile home screen.</small>
+<small>This artwork was created for the mobile home screen and was given to us by the client. </small>
 
 </li>
 
 <li class="glide__slide" style="text-align: left;"> <img src="/assets/images/bc_slider2.png" alt="second draft">
 
-<small>Old design of the in-game desktop screen.</small>
-
-</li>
-
-<li class="glide__slide" style="text-align: left;"> <img src="/assets/images/bc_slider3.png" alt="third draft">
-
-<small>Old magic scroll design.</small>
+<small>The featured image showcases the in-game screen. This project focuses on redesigning the hud assets of the game.</small>
 
 </li>
 
