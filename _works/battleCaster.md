@@ -122,7 +122,7 @@ The last component of the card we changed was the element symbols. The original 
 
 ## Development
 
-After the contract with our client ended, they took the design assets we created and implemented them into their game. While the client liked what we created, they modified our designs into their game. **The following screens were not created by the design team, and is currently in development by Group 6.**
+After the contract with our client ended, they took the design assets we created and implemented them into their game. While the client liked what we created, they modified our designs into their game. **The following screens were not created by the design team, and is currently being developed by Group 6.**
 
 {% include caption.html sideBySide=true url="/assets/images/bcStore.png" title="Desktop Store" description="" %}
 
