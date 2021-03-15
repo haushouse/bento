@@ -44,3 +44,15 @@ An iconic cooking ware paired with a classic checkered pattern creates an immedi
 <figure> <img src="/assets/images/hpIcons.png" alt="flowchart"> </figure>
 
 After initial sketches, I focused on the idea of a rice cooker to represent the icon of the app. I found that a more traditional rice cooker best resembles a hot pot. The background grid laid over a beige gradient gives the icon more depth and better unifies the appearance with other iOS apps on the market.
+
+### Final Screens
+
+The following screens are examples of what the user will see when navigating certain parts of the app, not all screens are displayed in this case study.
+
+{% include caption.html sideBySide=true url="/assets/images/hpFinalScreen1.png" title="Onboarding Screens & Settings" description="We decided to explore the usage of the ribbon from our wireframes, building assets to match the style and sharpness of the angles." %}
+
+{% include caption.html sideBySide=true url="/assets/images/hpFinalScreen2.png" title="Sign Up, Discover & Recipe" description="Friends that are online appear darker, while those that are offline will appear faded." %}
+
+{% include caption.html sideBySide=true url="/assets/images/hpFinalScreen1.png" title="Cooking Instructions" description="We decided to explore the usage of the ribbon from our wireframes, building assets to match the style and sharpness of the angles." %}
+
+{% include caption.html sideBySide=true url="/assets/images/hpFinalScreen2.png" title="Pantry Screens" description="Friends that are online appear darker, while those that are offline will appear faded." %}
