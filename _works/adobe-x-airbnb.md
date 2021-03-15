@@ -18,13 +18,19 @@ collaborator: []
 
 Adobe teamed up with Airbnb to foster design thinking, and show off new talent. They held a nation wide competition in 2020 to see how we could create new ways for friends and family to travel together and share photos when booking through Airbnb and using Adobe’s new Prototyping software, XD.
 
+<figure> <img src="/assets/images/airbnb_before.png" alt="early drafts"> </figure>
+
+{% include caption.html sideBySide=true url="/assets/images/airbnbDraft1.png" title="Draft 1" description="Onboarding images." %}
+
+{% include caption.html sideBySide=true url="/assets/images/airbnbDraft2.png" title="Draft 2" description="Creating travel plans with friends and family." %}
+
 ## The Solution
 
 Comet serves the comic-reading community by establishing trust through engaging and smooth user experience, dashed with a pinch of colorful whimsy. A unique asymmetrical design and flattened navigation system help achieve this. The goal is to empower authors by helping them reach the widest audience possible by having a free to read model while allowing creators to monetize their creators through physical products like prints, books, and clothing.
 
 ## Flowchart
 
-Simplifying the interface was a key goal in this project. To achieve this, I flattened and combined pages to reduce the use of the back button. 
+Simplifying the interface was a key goal in this project. To achieve this, I flattened and combined pages to reduce the use of the back button.
 
 {% include caption.html sideBySide=false url="/assets/images/airbnb_before.png" title="placeholder" description="First iteration" %}
 
