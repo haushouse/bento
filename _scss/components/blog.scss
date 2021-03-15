@@ -8,7 +8,7 @@
         display: inline-block;
         width: calc(50% - .5rem);
     }
-    .sideBySide:nth-child(odd) {
+    .sideBySide:nth-child(even) {
         margin-left: .5rem;
     }
     .sideBySide figcaption, .image figcaption { 
