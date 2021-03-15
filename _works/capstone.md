@@ -1,8 +1,8 @@
 ---
 layout: blog
 card_size: small
-title: Capstone
-description: Coming soon
+title: Coming Soon
+description: UI Design / Branding
 cover_image: "/assets/images/cthumbnail.png"
 post_image: ''
 project_link: ''
