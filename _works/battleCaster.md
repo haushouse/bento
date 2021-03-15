@@ -124,10 +124,10 @@ The last component of the card we changed was the element symbols. The original 
 
 After the contract with our client ended, they took the design assets we created and implemented them into their game. While the client liked what we created, they modified our designs into their game. **The following screens were not created by the design team, and is currently in development by Group 6.**
 
-{% include caption.html sideBySide=true url="/assets/images/bcStore.png" title="Desktop Store" description="Group 6 used a lot of our hud assets and design elements." %}
+{% include caption.html sideBySide=true url="/assets/images/bcStore.png" title="Desktop Store" description="" %}
 
-{% include caption.html sideBySide=true url="/assets/images/bcDesktopDeckBuilder.png" title="Desktop Deck Builder" description="Group 6 used a lot of our hud assets and design elements." %}
+{% include caption.html sideBySide=true url="/assets/images/bcDesktopDeckBuilder.png" title="Desktop Deck Builder" description="" %}
 
-{% include caption.html sideBySide=true url="/assets/images/bcDesktopInGame.png" title="Desktop In-Game" description="Group 6 used the assets we created for them and added their own style to it. The players hand is displayed in a fan-style, they used health bars that were created on their own design team, and the action buttons were simplified." %}
+{% include caption.html sideBySide=true url="/assets/images/bcDesktopInGame.png" title="Desktop In-Game" description="The cards in the player's hand are displayed in a different style, the interface buttons are simplified, and different health bars are being used." %}
 
-{% include caption.html sideBySide=true url="/assets/images/bcMobileInGame.png" title="Mobile In-Game" description="Group 6 used the assets we created for them and added their own style to it. The players hand is displayed in a fan-style, they used health bars that were created on their own design team, and the action buttons were simplified." %}
+{% include caption.html sideBySide=true url="/assets/images/bcMobileInGame.png" title="Mobile In-Game" description="On mobile screens, our card designs make it easier for the player to quickly read the card description, and see the damage counter in the top left corner of each card." %}
