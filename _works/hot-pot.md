@@ -53,10 +53,10 @@ Several screens with different designs were creaed to get a sense of how the app
 
 The following screens are examples of what the user will see when navigating certain parts of the app, not all screens are displayed in this case study.
 
-{% include caption.html sideBySide=true url="/assets/images/hpFinalScreen1.png" title="Onboarding Screens & Settings" description="We decided to explore the usage of the ribbon from our wireframes, building assets to match the style and sharpness of the angles." %}
+{% include caption.html sideBySide=true url="/assets/images/hpFinalScreen1.png" title="Onboarding Screens & Settings" description="The onboarding and setting screens showcase a plaid pattern. The idea behind Hot Pot being a cooking app, I found it appropriate to use this pattern." %}
 
-{% include caption.html sideBySide=true url="/assets/images/hpFinalScreen2.png" title="Sign Up, Discover & Recipe" description="Friends that are online appear darker, while those that are offline will appear faded." %}
+{% include caption.html sideBySide=true url="/assets/images/hpFinalScreen2.png" title="Sign Up, Discover & Recipe" description="After signing up, the user can browse through a collection of recipes. Upon selecting a recipe, the use will be able to see the ingredients and cooking instructions." %}
 
-{% include caption.html sideBySide=true url="/assets/images/hpFinalScreen3.png" title="Cooking Instructions" description="We decided to explore the usage of the ribbon from our wireframes, building assets to match the style and sharpness of the angles." %}
+{% include caption.html sideBySide=true url="/assets/images/hpFinalScreen3.png" title="Cooking Instructions" description="The cooking instructions utilizes the use of a progress bar, allowing the user to see how many steps are left in the cooking process. The step by step interface showcases cards on the sliding carousel." %}
 
-{% include caption.html sideBySide=true url="/assets/images/hpFinalScreen4.png" title="Pantry Screens" description="Friends that are online appear darker, while those that are offline will appear faded." %}
+{% include caption.html sideBySide=true url="/assets/images/hpFinalScreen4.png" title="Pantry Screens" description="A unique feature Hot Pot offers is the ability to produce recipes based on the current ingredients in the user's home." %}
