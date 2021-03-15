@@ -85,19 +85,13 @@ opacity: 1; transform: scale(1);
 
 <li class="glide__slide" style="text-align: left;"> <img src="/assets/images/hpIteration1.png" alt="first iteration">
 
-<small>Placeholder text.</small>
+<small>The first draft focused on the use of filters and vertical cards that the user would swipe through and search for the desired recipe.</small>
 
 </li>
 
 <li class="glide__slide" style="text-align: left;"> <img src="/assets/images/hpIteration2.png" alt="second iteration">
 
-<small>Placeholder text.</small>
-
-</li>
-
-<li class="glide__slide" style="text-align: left;"> <img src="/assets/images/hpIteration1.png" alt="third draft">
-
-<small>Placeholder Text.</small>
+<small>The second draft categorizes food items based on the time of day, and would let users search for their cravings.</small>
 
 </li>
 
