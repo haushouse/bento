@@ -40,7 +40,7 @@ The idea of keeping connected was the focus of this app. We wanted our users to 
 
 {% include caption.html sideBySide=true url="/assets/images/airbnb3.png" title="Event Planning" description="Create scheduled events and plan adventures with your travel party. This app allows users to track their travel party in case the group splits up or if anyone gets lost." %}
 
-{% include caption.html sideBySide=true url="/assets/images/airbnb4.png" title="Callouts" description="Creating travel plans with friends and family." %}
+{% include caption.html sideBySide=true url="/assets/images/airbnb4.png" title="Callouts" description="Highlights of our app that separates us from the competition. Creating agendas, a travel party map, and local hotspots." %}
 
 ## Relive, edit, and share your picture-perfect moments.
 
