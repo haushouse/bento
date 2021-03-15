@@ -108,6 +108,10 @@ Some of the biggest changes were cleaning up the card shape and remove the textu
 
 {% include caption.html sideBySide=false url="/assets/images/bc_cardInfo.png" title="Card Details" description="By removing the flavor text and artist credit from the card the player spends less time reading during in-game battles." %}
 
+## Deck Builder
+
+The deck builder iterations were one of the final screens created for the client. Using the design assets we've created, the deck builder uses the same UI buttons, banner styles and typography treatments.
+
 {% include caption.html sideBySide=true url="/assets/images/bcDeckBuilder1.png" title="Mobile Deck Builder Draft 1" description="" %}
 
 {% include caption.html sideBySide=true url="/assets/images/bcDeckBuilder2.png" title="Mobile Deck Builder Draft 2" description="" %}
