@@ -58,19 +58,19 @@ opacity: 1; transform: scale(1);
 
 <li class="glide__slide" style="text-align: left;"> <img src="/assets/images/cDraft1.png" alt="first iteration">
 
-<small>The screens were created to fit on the Gameboy Color. Screen resolution was set to 160 x 144 px before starting on the Gameboy Advance Color is .</small>
+<small>The screens were created to fit on the Gameboy Color. Screen resolution is set to 160 x 144 px.</small>
 
 </li>
 
 <li class="glide__slide" style="text-align: left;"> <img src="/assets/images/cDraft2.png" alt="second iteration">
 
-<small>The second draft categorizes food items based on the time of day, and would let users search for their cravings.</small>
+<small>The cafe screen was modified a few times to maximize player freedom and movement.</small>
 
 </li>
 
 <li class="glide__slide" style="text-align: left;"> <img src="/assets/images/cDraft3.png" alt="second iteration">
 
-<small>The second draft categorizes food items based on the time of day, and would let users search for their cravings.</small>
+<small>The kitchen room will appear smaller than the cafe and outdoor screen.</small>
 
 </li>
 
