@@ -58,7 +58,7 @@ opacity: 1; transform: scale(1);
 
 <li class="glide__slide" style="text-align: left;"> <img src="/assets/images/cDraft1.png" alt="first iteration">
 
-<small>The screens were created to fit on the Gameboy Color. The resolution was set to 160 x 144 px before starting on the Gameboy Advance Color is .</small>
+<small>The screens were created to fit on the Gameboy Color. Screen resolution was set to 160 x 144 px before starting on the Gameboy Advance Color is .</small>
 
 </li>
 
