@@ -81,3 +81,5 @@ opacity: 1; transform: scale(1);
 <small style="text-align: center; color: var(--ink-6); font-weight: 600; display: block;">drag, swipe or use arrow keys</small>
 
 </div>
+
+## Updating...
