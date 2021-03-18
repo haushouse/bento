@@ -4,7 +4,7 @@ card_size: large
 title: Woody's
 description: Branding / 3D Modeling
 cover_image: ''
-post_image: ''
+post_image: "/assets/images/whero.png"
 project_link: ''
 context_work: ''
 context_date: ''
