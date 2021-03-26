@@ -1,9 +1,9 @@
 ---
 layout: blog
-card_size: large
+card_size: small
 title: Woody's
 description: Branding / 3D Modeling
-cover_image: "/assets/images/wthumbnail2.png"
+cover_image: "/assets/images/w_thumbnail.png"
 post_image: "/assets/images/whero.png"
 project_link: ''
 context_work: ''
