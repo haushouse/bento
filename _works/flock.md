@@ -89,7 +89,7 @@ opacity: 1; transform: scale(1);
 
 <li class="glide__slide" style="text-align: left;"> <img src="/assets/images/draft6.png" alt="discover iteration 3">
 
-<small>When building the profile screens we were challenged with finding an effective way of displaying the creator content in an organized way. We had trouble including the user's interests in their profile.</small>
+<small>We continued adjusting the layout of the Discover page and expanded the application of our brand elements. Our goal was to bring focus to the daily challenge section.</small>
 
 </li>
 
@@ -125,9 +125,7 @@ Updating...
 
 ## Final Screens
 
-Create daily agendas to keep everyone interested, find your travel mates on the map to keep in touch when they do their own activities and discover new activites along the way.
-
-The idea of keeping connected was the focus of this app. We wanted our users to have the most flexibility when traveling with a group. Planning trips can be very stressful, so we wanted to give out users as few obligations as possible. When travel mates go on their own activities, we wanted our users to easily find them for safety and communication, Maps makes trip planning fast and easy. It can be difficult to find new things to do when traveling, so the Discover feature allows everyone to explore.
+Updating...
 
 {% include caption.html sideBySide=true url="/assets/images/fSignup1.png" title="Onboarding" description="Sign up, personal information." %}
 
