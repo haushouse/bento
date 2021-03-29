@@ -17,15 +17,7 @@ collaborator: []
 ---
 ## Adobe Creative Jam + Twitch
 
-Adobe teamed up with Airbnb to foster design thinking, and show off new talent. They held a nation wide competition in 2020 to see how we could create new ways for friends and family to travel together and share photos when booking through Airbnb and using Adobe’s new Prototyping software, XD.
-
-## Iterations
-
-During the 7 day time period we had during this Creative Jam, our team did not go through many iterations. We focused on laying out components in the interface that would make sense to the viewer before focusing on a solid design direction.
-
-{% include caption.html sideBySide=true url="/assets/images/airbnbDraft1.png" title="Onboarding Iterations" description="" %}
-
-{% include caption.html sideBySide=true url="/assets/images/airbnbDraft2.png" title="Agenda Planning Iterations" description="" %}
+Welcome to Flock! Mag-bot is a badge collecting magpie that will help you collect your own badges as you explore content and meet new people. Through the onboarding process, you will select interests to curate your feed and introduce you to content catered to you. Within the app, you will have access to your Nest where all your personal content will lie to be organized and viewed by other users. Here you’ll also be able to see the badges you’ve collected through your journey. Badges are earned through a variety of different actions and will encourage you to explore communities that you usually wouldn’t find on your own. Through the discover page you will see content made by other creators and be able to participate in skill-building challenges that help you learn and earn badges. Flock is the best way to connect with communities and share your talents with the world.
 
 ### Interface Design
 
@@ -65,15 +57,51 @@ opacity: 1; transform: scale(1);
 
 <ul class="glide__slides">
 
-<li class="glide__slide" style="text-align: left;"> <img src="/assets/images/hpIteration1.png" alt="first iteration">
+<li class="glide__slide" style="text-align: left;"> <img src="/assets/images/draft1.png" alt="onboarding iteration 1">
 
-<small>The first draft focused on the use of filters and vertical cards that the user would swipe through and search for the desired recipe.</small>
+<small>The initial onboarding screen placed a focused on color and a frosted skim appearance. Our Mag-bot mascot is featured throughout the onboarding process.</small>
 
 </li>
 
-<li class="glide__slide" style="text-align: left;"> <img src="/assets/images/hpIteration2.png" alt="second iteration">
+<li class="glide__slide" style="text-align: left;"> <img src="/assets/images/draft2.png" alt="onboarding iteration 2">
 
-<small>The second draft categorizes food items based on the time of day, and would let users search for their cravings.</small>
+<small>The second iterations of the onboarding screens utilize a simplified color palette, different style text fields, and a new version of Mag-bot.</small>
+
+</li>
+
+<li class="glide__slide" style="text-align: left;"> <img src="/assets/images/draft3.png" alt="onboarding iteration 3">
+
+<small>Users are able to curate their feed by chooseing their interests. This style and appearance feels dated and displays a limited number of options.</small>
+
+</li>
+
+<li class="glide__slide" style="text-align: left;"> <img src="/assets/images/draft4.png" alt="discover iteration 1">
+
+<small>The initial designs of the Discover page uses a similar frosted skim design as seen in the onboarding screens. The messaging feature felt constricted in the upper corner.</small>
+
+</li>
+
+<li class="glide__slide" style="text-align: left;"> <img src="/assets/images/draft5.png" alt="discover iteration 2">
+
+<small>This layout utilizes a modular layout, focusing on the chat feature on the right side of the screen and a compact navigation bar.</small>
+
+</li>
+
+<li class="glide__slide" style="text-align: left;"> <img src="/assets/images/draft6.png" alt="Nest iteration">
+
+<small>The challenge in building the profile screen was finding an effective way of displaying the creator content in an organized way.</small>
+
+</li>
+
+<li class="glide__slide" style="text-align: left;"> <img src="/assets/images/draft7.png" alt="challenge iteration">
+
+<small>The featured daily challenge page uses a single column layout, with the community discussion pinned to the right side.</small>
+
+</li>
+
+<li class="glide__slide" style="text-align: left;"> <img src="/assets/images/draft8.png" alt="feature article iteration">
+
+<small>While this editorial layout works for the featured article, it lacks the placement of the comments section.</small>
 
 </li>
 
