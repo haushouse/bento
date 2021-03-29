@@ -3,7 +3,7 @@ layout: blog
 title: Battle Caster
 description: UI Design / Branding
 card_size: medium
-cover_image: "/assets/images/bc_thumbnail.png"
+cover_image: "/assets/images/bcthumbnail2.png"
 post_image: "/assets/images/bc_hero.png"
 context_work: Client Work
 context_date: Jan 2020 – Jun 2020
