@@ -59,19 +59,19 @@ opacity: 1; transform: scale(1);
 
 <li class="glide__slide" style="text-align: left;"> <img src="/assets/images/draft1.png" alt="onboarding iteration 1">
 
-<small>The initial onboarding screen placed a focused on color and a frosted skim appearance. Our Mag-bot mascot is featured throughout the onboarding process.</small>
+<small>The initial onboarding screen placed a focused on color and a frosted skim appearance. Our magpie mascot, Mag-bot is featured throughout the onboarding process.</small>
 
 </li>
 
 <li class="glide__slide" style="text-align: left;"> <img src="/assets/images/draft2.png" alt="onboarding iteration 2">
 
-<small>The second iterations of the onboarding screens utilize a simplified color palette, different style text fields, and a new version of Mag-bot.</small>
+<small>The second iterations of the onboarding screens utilize a simplified color palette, different text-field styles, and a geometric version of Mag-bot featured in Flock's brand colors.</small>
 
 </li>
 
 <li class="glide__slide" style="text-align: left;"> <img src="/assets/images/draft3.png" alt="onboarding iteration 3">
 
-<small>Users are able to curate their feed by chooseing their interests. This style and appearance feels dated and displays a limited number of options.</small>
+<small>Users are able to curate their feed by selecting the interests that float on the screen. This style and appearance feels dated and displays a limited number of options.</small>
 
 </li>
 
@@ -83,25 +83,25 @@ opacity: 1; transform: scale(1);
 
 <li class="glide__slide" style="text-align: left;"> <img src="/assets/images/draft5.png" alt="discover iteration 2">
 
-<small>This layout utilizes a modular layout, focusing on the chat feature on the right side of the screen and a compact navigation bar.</small>
+<small>The second draft of this layout pins the messaging feature on the right side of the screen and displays a compact navigation bar. The profile icon, notifications and messaging icon was moved into the nav bar.</small>
 
 </li>
 
 <li class="glide__slide" style="text-align: left;"> <img src="/assets/images/draft6.png" alt="Nest iteration">
 
-<small>The challenge in building the profile screen was finding an effective way of displaying the creator content in an organized way.</small>
+<small>When building the profile screens we were challenged with finding an effective way of displaying the creator content in an organized way. We began using the brand color and incorporating the user's interests in their profile.</small>
 
 </li>
 
 <li class="glide__slide" style="text-align: left;"> <img src="/assets/images/draft7.png" alt="challenge iteration">
 
-<small>The featured daily challenge page uses a single column layout, with the community discussion pinned to the right side.</small>
+<small>The featured daily challenge page uses a single column layout, with the community discussion pinned to the right side. Small details such as the author's credibility and number of views was also missing from this draft.</small>
 
 </li>
 
 <li class="glide__slide" style="text-align: left;"> <img src="/assets/images/draft8.png" alt="feature article iteration">
 
-<small>While this editorial layout works for the featured article, it lacks the placement of the comments section.</small>
+<small>While this editorial layout works for the featured article, it lacks the placement of the comments section. Small details such as the author's credibility and number of views was also missing from this draft.</small>
 
 </li>
 
