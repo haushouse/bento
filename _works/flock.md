@@ -19,9 +19,9 @@ collaborator: []
 
 Welcome to Flock! Mag-bot is a badge collecting magpie that will help you collect your own badges as you explore content and meet new people. Through the onboarding process, you will select interests to curate your feed and introduce you to content catered to you. Within the app, you will have access to your Nest where all your personal content will lie to be organized and viewed by other users. Here you’ll also be able to see the badges you’ve collected through your journey. Badges are earned through a variety of different actions and will encourage you to explore communities that you usually wouldn’t find on your own. Through the discover page you will see content made by other creators and be able to participate in skill-building challenges that help you learn and earn badges. Flock is the best way to connect with communities and share your talents with the world.
 
-### Interface Design
+## Interface Design
 
-Several screens with different designs were creaed to get a sense of how the app might appear moving forward. We focused on creating a clean and straight forward design for all users. During the research phase, we came to the conclusion that users would like the implementation of voice control, creating a hands free app that helps the user focus on their task.
+Updating...
 
 <style>
 
@@ -87,19 +87,25 @@ opacity: 1; transform: scale(1);
 
 </li>
 
-<li class="glide__slide" style="text-align: left;"> <img src="/assets/images/draft6.png" alt="Nest iteration">
+<li class="glide__slide" style="text-align: left;"> <img src="/assets/images/draft6.png" alt="discover iteration 3">
 
 <small>When building the profile screens we were challenged with finding an effective way of displaying the creator content in an organized way. We had trouble including the user's interests in their profile.</small>
 
 </li>
 
-<li class="glide__slide" style="text-align: left;"> <img src="/assets/images/draft7.png" alt="challenge iteration">
+<li class="glide__slide" style="text-align: left;"> <img src="/assets/images/draft7.png" alt="Nest iteration">
+
+<small>When building the profile screens we were challenged with finding an effective way of displaying the creator content in an organized way. We had trouble including the user's interests in their profile.</small>
+
+</li>
+
+<li class="glide__slide" style="text-align: left;"> <img src="/assets/images/draft8.png" alt="challenge iteration">
 
 <small>The featured daily challenge page uses a single column layout, with the community discussion pinned to the right side. The author's credibility and number of views was also missing from this draft.</small>
 
 </li>
 
-<li class="glide__slide" style="text-align: left;"> <img src="/assets/images/draft8.png" alt="feature article iteration">
+<li class="glide__slide" style="text-align: left;"> <img src="/assets/images/draft9.png" alt="feature article iteration">
 
 <small>While this editorial layout works for the featured article, it lacks the placement of the comments section. The author's credibility and number of views was also missing from this draft.</small>
 
@@ -112,6 +118,10 @@ opacity: 1; transform: scale(1);
 <small style="text-align: center; color: var(--ink-6); font-weight: 600; display: block;">drag, swipe or use arrow keys</small>
 
 </div>
+
+## Branding
+
+Updating...
 
 ## Final Screens
 
