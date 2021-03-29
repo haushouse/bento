@@ -83,25 +83,25 @@ opacity: 1; transform: scale(1);
 
 <li class="glide__slide" style="text-align: left;"> <img src="/assets/images/draft5.png" alt="discover iteration 2">
 
-<small>The second draft of this layout pins the messaging feature on the right side of the screen and displays a compact navigation bar. The profile icon, notifications and messaging icon was moved into the nav bar.</small>
+<small>The layout pins the messaging feature on the right side of the screen and displays a compact navigation bar. The profile icon, notifications and messaging icon was moved into the nav bar.</small>
 
 </li>
 
 <li class="glide__slide" style="text-align: left;"> <img src="/assets/images/draft6.png" alt="Nest iteration">
 
-<small>When building the profile screens we were challenged with finding an effective way of displaying the creator content in an organized way. We began using the brand color and incorporating the user's interests in their profile.</small>
+<small>When building the profile screens we were challenged with finding an effective way of displaying the creator content in an organized way. We had trouble including the user's interests in their profile.</small>
 
 </li>
 
 <li class="glide__slide" style="text-align: left;"> <img src="/assets/images/draft7.png" alt="challenge iteration">
 
-<small>The featured daily challenge page uses a single column layout, with the community discussion pinned to the right side. Small details such as the author's credibility and number of views was also missing from this draft.</small>
+<small>The featured daily challenge page uses a single column layout, with the community discussion pinned to the right side. The author's credibility and number of views was also missing from this draft.</small>
 
 </li>
 
 <li class="glide__slide" style="text-align: left;"> <img src="/assets/images/draft8.png" alt="feature article iteration">
 
-<small>While this editorial layout works for the featured article, it lacks the placement of the comments section. Small details such as the author's credibility and number of views was also missing from this draft.</small>
+<small>While this editorial layout works for the featured article, it lacks the placement of the comments section. The author's credibility and number of views was also missing from this draft.</small>
 
 </li>
 
