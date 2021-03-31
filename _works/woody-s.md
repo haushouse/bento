@@ -70,7 +70,7 @@ opacity: 1; transform: scale(1);
 
 <li class="glide__slide" style="text-align: left;"> <img src="/assets/images/woodysOld3.png" alt="Woody's packaging 2">
 
-<small>Woody's hair care product packaging.</small>
+<small><center>Woody's hair care product packaging.</center></small>
 
 </li>
 
@@ -78,7 +78,7 @@ opacity: 1; transform: scale(1);
 
 <li class="glide__slide" style="text-align: left;"> <img src="/assets/images/woodysOld4.png" alt="Woody's Instagram">
 
-<small>Woody's Instagram content.</small>
+<small><center>Woody's Instagram content.</center></small>
 
 </li>
 
@@ -90,8 +90,6 @@ opacity: 1; transform: scale(1);
 
 </div>
 
-## Logo Redesign  
+## Logo Redesign 
 
-Keeping the core values of Woody's, 
-
-Woody's was developed through a collaboration of celebrity barbers and stylists. We created it for the mean who wants a simple regimen with basic, no-frill products that smells good and gets the job done. Our uncompromising products cleanse, nourish and protect your skin. We make it easy for you to look and smell good everyday, so you can focus on getting back to there the adventures are.
+A strong geometric shape that is easily recognizable ...while calling back to the comic reader theme. A subtle gradient allows the ...The logo resembles a strong imagery of the sun setting on the ocean horizon. Selling the idea of a boardwalk themed line of products. These design elements help form the on-the-go connection with the clients.
