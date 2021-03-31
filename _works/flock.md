@@ -4,7 +4,7 @@ card_size: medium
 title: Flock
 description: UI Design / Branding
 cover_image: "/assets/images/fthumbnail.png"
-post_image: "/assets/images/fhero.png"
+post_image: "/assets/images/fhero.jpg"
 project_link: ''
 context_work: ''
 context_date: ''
