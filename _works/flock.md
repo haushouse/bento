@@ -21,8 +21,6 @@ Welcome to Flock! Mag-bot is a badge collecting magpie that will help you collec
 
 ## Interface Design
 
-Updating...
-
 <style>
 
 .glide ul {
@@ -119,13 +117,7 @@ opacity: 1; transform: scale(1);
 
 </div>
 
-## Branding
-
-Updating...
-
 ## Final Screens
-
-Updating...
 
 {% include caption.html sideBySide=true url="/assets/images/fSignup1.png" title="Onboarding" description="Sign up, personal information." %}
 
