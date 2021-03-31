@@ -3,8 +3,8 @@ layout: blog
 card_size: small
 title: Adobe x Airbnb
 description: UI Design / Branding
-cover_image: assets/images/airbnb_thumbnail.png
-post_image: "/assets/images/airbnb_hero.png"
+cover_image: "/assets/images/airbnbthumbnail.png"
+post_image: "/assets/images/airbnbhero.png"
 project_link: ''
 context_work: ''
 context_date: ''
@@ -22,7 +22,7 @@ Adobe teamed up with Airbnb to foster design thinking, and show off new talent. 
 
 Due to the quick 48 hour turn around time we had during this Creative Jam, our team did not go through many iterations. We focused on laying out components in the interface that would make sense to the viewer before focusing on a solid design direction.
 
-<div> <img src="/assets/images/airbnb_before.png" alt="first iteration"> </div>
+<div> <img src="/assets/images/airbnbBefore.png" alt="first iteration"> </div>
 
 {% include caption.html sideBySide=true url="/assets/images/airbnbDraft1.png" title="Onboarding Iterations" description="" %}
 
