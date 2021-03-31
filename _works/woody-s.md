@@ -99,3 +99,7 @@ A strong geometric shape that is easily recognizable ...while calling back to th
 A strong geometric shape that is easily recognizable ...while calling back to the comic reader theme. A subtle gradient allows the ...The logo resembles a strong imagery of the sun setting on the ocean horizon. Selling the idea of a boardwalk themed line of products. These design elements help form the on-the-go connection with the clients.
 
 <figure> <img src="/assets/images/woodysFinalLogos.png" alt="final logomark"></figure>
+
+<figure> <img src="/assets/images/woodysPrimary.png" alt="primary color palette"></figure>
+
+<figure> <img src="/assets/images/woodysFinalLogos.png" alt="secondary color palette"></figure>
