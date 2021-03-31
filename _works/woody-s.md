@@ -90,16 +90,26 @@ opacity: 1; transform: scale(1);
 
 ## Logomark Iterations 
 
-A strong geometric shape that is easily recognizable ...while calling back to the comic reader theme. A subtle gradient allows the ...The logo resembles a strong imagery of the sun setting on the ocean horizon. Selling the idea of a boardwalk themed line of products. These design elements help form the on-the-go connection with the clients.
+Woody's current logomark features the silhouette of a man carrying a surfboard. Following a similar aquatic theme, I created a few logomarks that resemble a whale with the wooden markings of a surfboard. Other iterations drew inspiration from the ocean waves and a boardwalk sunset.
 
 <figure> <img src="/assets/images/woodysLogoIterations.png" alt="final logomark"></figure>
 
 ## Branding 
 
-A strong geometric shape that is easily recognizable ...while calling back to the comic reader theme. A subtle gradient allows the ...The logo resembles a strong imagery of the sun setting on the ocean horizon. Selling the idea of a boardwalk themed line of products. These design elements help form the on-the-go connection with the clients.
+A strong geometric shape that houses the oceanic elements creates purposeful movement while calling back to the boardwalk theme. The bold frame allows the logomark to pop off the background, improving presence on various background colors.
 
 <figure> <img src="/assets/images/woodysFinalLogos.png" alt="final logomark"></figure>
 
 <figure> <img src="/assets/images/woodysPrimary.png" alt="primary color palette"></figure>
 
-<figure> <img src="/assets/images/woodysFinalLogos.png" alt="secondary color palette"></figure>
+<figure> <img src="/assets/images/woodysSecondary.png" alt="secondary color palette"></figure>
+
+## Deliverables
+
+As a result, I 3D modeled geometric packaging that would enhance the modernist branding I created. The new color palette still feels appropriate for the target audience but adds a touch of youthfulness and energy.
+
+{% include caption.html sideBySide=false url="/assets/images/woodysMockup.png" title="mockups" description="Social media post & packaging." %}
+
+{% include caption.html sideBySide=true url="/assets/images/woodysModeled1.png" title="rendered 3D model 1" description="Seafood Body Wash & Sculpting Hair Clay" %}
+
+{% include caption.html sideBySide=true url="/assets/images/woodysModeled2.png" title="rendered 3D model 2" description="Sculpting Hair Clay" %}
