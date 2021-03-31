@@ -106,10 +106,10 @@ A strong geometric shape that houses the oceanic elements creates purposeful mov
 
 ## Deliverables
 
-As a result, I 3D modeled geometric packaging that would enhance the modernist branding I created. The new color palette still feels appropriate for the target audience but adds a touch of youthfulness and energy.
+I 3D modeled geometric packaging that would enhance the modern boardwalk branding I created. The new color palette feels appropriate for the target audience, but adds a touch of youthfulness and energy.
 
-{% include caption.html sideBySide=false url="/assets/images/woodysMockup.png" title="mockups" description="Social media post & packaging." %}
+{% include caption.html sideBySide=false url="/assets/images/woodysMockup.png" title="Mockups" description="Social media post & packaging." %}
 
-{% include caption.html sideBySide=true url="/assets/images/woodysModeled1.png" title="rendered 3D model 1" description="Seafood Body Wash & Sculpting Hair Clay" %}
+{% include caption.html sideBySide=true url="/assets/images/woodysModeled1.png" title="Rendered 3D Models" description="Seafood Body Wash & Sculpting Hair Clay" %}
 
-{% include caption.html sideBySide=true url="/assets/images/woodysModeled2.png" title="rendered 3D model 2" description="Sculpting Hair Clay" %}
+{% include caption.html sideBySide=true url="/assets/images/woodysModeled2.png" title="Rendered 3D Models" description="Sculpting Hair Clay" %}
