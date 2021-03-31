@@ -4,7 +4,7 @@ title: Battle Caster
 description: UI Design / Branding
 card_size: medium
 cover_image: "/assets/images/bcthumbnail2.png"
-post_image: "/assets/images/bc_hero.png"
+post_image: "/assets/images/bchero.jpg"
 context_work: Client Work
 context_date: Jan 2020 – Jun 2020
 contribution:
@@ -84,17 +84,17 @@ At the start of the project, they showed our team the current prototype game. Ho
 
 For the new look, we kept the texture paper background. To make the most of the screen and maximize the amount of battlefield a player can see at any given time, we made elements transparent and pushed them off-screen when not active. We positioned these interactive elements at the bottom of the screen to make it easier to hit with one’s fingers.
 
-{% include caption.html sideBySide=true url="/assets/images/bc_phone1.png" title="Mobile Home Screen" description="We decided to explore the usage of the ribbon from our wireframes, building assets to match the style and sharpness of the angles." %}
+{% include caption.html sideBySide=true url="/assets/images/bcPhone1.jpg" title="Mobile Home Screen" description="We decided to explore the usage of the ribbon from our wireframes, building assets to match the style and sharpness of the angles." %}
 
-{% include caption.html sideBySide=true url="/assets/images/bc_friendslist.png" title="Friends List" description="Friends that are online appear darker, while those that are offline will appear faded." %}
+{% include caption.html sideBySide=true url="/assets/images/bcPhone2.jpg" title="Friends List" description="Friends that are online appear darker, while those that are offline will appear faded." %}
 
-{% include caption.html sideBySide=true url="/assets/images/bc_options.png" title="Play Options" description="The options screen utilizes the same banner design as the previous screens." %}
+{% include caption.html sideBySide=true url="/assets/images/bcPhone3.jpg" title="Play Options" description="The options screen utilizes the same banner design as the previous screens." %}
 
-{% include caption.html sideBySide=true url="/assets/images/bc_phone3.png" title="Queue Match" description="After pressing the Start Battle button, the interface takes the player to this screen. The player has the option to challenge other online players, train their strategic skills, or walk through a tutorial." %}
+{% include caption.html sideBySide=true url="/assets/images/bcPhone4.jpg" title="Queue Match" description="After pressing the Start Battle button, the interface takes the player to this screen. The player has the option to challenge other online players, train their strategic skills, or walk through a tutorial." %}
 
-{% include caption.html sideBySide=true url="/assets/images/bc_phone4.png" title="Mobile In-Game" description="The buttons and other hud assets utilize diamond shapes, the profile icons action button and count down timer as well." %}
+{% include caption.html sideBySide=true url="/assets/images/bcPhone5.jpg" title="Mobile In-Game" description="The buttons and other hud assets utilize diamond shapes, the profile icons action button and count down timer as well." %}
 
-{% include caption.html sideBySide=true url="/assets/images/bc_phone6.png" title="In-Game Drop-Down" description="The ribbon drops down and inverts the direction of the arrow." %}
+{% include caption.html sideBySide=true url="/assets/images/bcPhone6.jpg" title="In-Game Drop-Down" description="The ribbon drops down and inverts the direction of the arrow." %}
 
 We used transparency and light to make the interface look more open and indicate information. To make sure that text would still be readable even on a light background we used subtle drop shadows and a slight blur effect along with a generous text-shadow.
 
@@ -106,15 +106,15 @@ While not in the initial brief, the design team felt that the current card desig
 
 Some of the biggest changes were cleaning up the card shape and remove the textured background. To make the text more legible, we increased the font size and removed unnecessary elements such as flavor text and artist description. Instead, those elements were moved to the deck builder page. The team also moved the damage amount to the upper left to increase visibility.
 
-{% include caption.html sideBySide=false url="/assets/images/bc_cardInfo.png" title="Card Details" description="By removing the flavor text and artist credit from the card the player spends less time reading during in-game battles." %}
+{% include caption.html sideBySide=false url="/assets/images/bcCardInfo.jpg" title="Card Details" description="By removing the flavor text and artist credit from the card the player spends less time reading during in-game battles." %}
 
 ## Deck Builder
 
 The deck builder iterations were one of the final screens created for the client. Using the design assets we've created, the deck builder uses the same UI buttons, banner styles and typography treatments.
 
-{% include caption.html sideBySide=true url="/assets/images/bcDeckBuilder1.png" title="Mobile Deck Builder Draft 1" description="" %}
+{% include caption.html sideBySide=true url="/assets/images/bcDeckBuilder1.jpg" title="Mobile Deck Builder Draft 1" description="" %}
 
-{% include caption.html sideBySide=true url="/assets/images/bcDeckBuilder2.png" title="Mobile Deck Builder Draft 2" description="" %}
+{% include caption.html sideBySide=true url="/assets/images/bcDeckBuilder2.jpg" title="Mobile Deck Builder Draft 2" description="" %}
 
 ## Symbols
 
@@ -128,10 +128,10 @@ The last component of the card we changed was the element symbols. The original 
 
 After the contract with our client ended, they took the design assets we created and implemented them into their game. While the client liked what we created, they modified our designs into their game. **The following screens were not created by the design team, and is currently being developed by Group 6.**
 
-{% include caption.html sideBySide=true url="/assets/images/bcStore.png" title="Desktop Store" description="" %}
+{% include caption.html sideBySide=true url="/assets/images/bc1.jpg" title="Desktop Store" description="" %}
 
-{% include caption.html sideBySide=true url="/assets/images/bcDesktopDeckBuilder.png" title="Desktop Deck Builder" description="" %}
+{% include caption.html sideBySide=true url="/assets/images/bc2.jpg" title="Desktop Deck Builder" description="" %}
 
-{% include caption.html sideBySide=true url="/assets/images/bcDesktopInGame.png" title="Desktop In-Game" description="The cards in the player's hand are displayed in a different style, the interface buttons are simplified, and different health bars are being used." %}
+{% include caption.html sideBySide=true url="/assets/images/bc3.jpg" title="Desktop In-Game" description="The cards in the player's hand are displayed in a different style, the interface buttons are simplified, and different health bars are being used." %}
 
-{% include caption.html sideBySide=true url="/assets/images/bcMobileInGame.png" title="Mobile In-Game" description="On mobile screens, our card designs make it easier for the player to quickly read the card description, and see the damage counter in the top left corner of each card." %}
+{% include caption.html sideBySide=true url="/assets/images/bc4.jpg" title="Mobile In-Game" description="On mobile screens, our card designs make it easier for the player to quickly read the card description, and see the damage counter in the top left corner of each card." %}
