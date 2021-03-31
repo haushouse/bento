@@ -58,27 +58,25 @@ opacity: 1; transform: scale(1);
 
 <li class="glide__slide" style="text-align: left;"> <img src="/assets/images/woodysOld1.png" alt="Woody's homepage">
 
-<small>Woody's current homepage.</small>
+<small><center>Current homepage</center></small>
 
 </li>
 
 <li class="glide__slide" style="text-align: left;"> <img src="/assets/images/woodysOld2.png" alt="Woody's packaging 1">
 
-<small>Shave and skin care packaging.</small>
+<small><center>Shave and skin care packaging</center></small>
 
 </li>
 
 <li class="glide__slide" style="text-align: left;"> <img src="/assets/images/woodysOld3.png" alt="Woody's packaging 2">
 
-<small><center>Woody's hair care product packaging.</center></small>
-
-</li>
+<small><center>Hair care product packaging</center></small>
 
 </li>
 
 <li class="glide__slide" style="text-align: left;"> <img src="/assets/images/woodysOld4.png" alt="Woody's Instagram">
 
-<small><center>Woody's Instagram content.</center></small>
+<small><center>Social media content & photography layout</center></small>
 
 </li>
 
@@ -90,6 +88,14 @@ opacity: 1; transform: scale(1);
 
 </div>
 
-## Logo Redesign 
+## Logomark Iterations 
 
 A strong geometric shape that is easily recognizable ...while calling back to the comic reader theme. A subtle gradient allows the ...The logo resembles a strong imagery of the sun setting on the ocean horizon. Selling the idea of a boardwalk themed line of products. These design elements help form the on-the-go connection with the clients.
+
+<figure> <img src="/assets/images/woodysLogoIterations.png" alt="final logomark"></figure>
+
+## Branding 
+
+A strong geometric shape that is easily recognizable ...while calling back to the comic reader theme. A subtle gradient allows the ...The logo resembles a strong imagery of the sun setting on the ocean horizon. Selling the idea of a boardwalk themed line of products. These design elements help form the on-the-go connection with the clients.
+
+<figure> <img src="/assets/images/woodysFinalLogos.png" alt="final logomark"></figure>
