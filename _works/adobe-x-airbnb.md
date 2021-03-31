@@ -22,11 +22,11 @@ Adobe teamed up with Airbnb to foster design thinking, and show off new talent. 
 
 Due to the quick 48 hour turn around time we had during this Creative Jam, our team did not go through many iterations. We focused on laying out components in the interface that would make sense to the viewer before focusing on a solid design direction.
 
-<div> <img src="/assets/images/airbnbBefore.png" alt="first iteration"> </div>
+<div> <img src="/assets/images/airbnbBefore.jpg" alt="first iteration"> </div>
 
-{% include caption.html sideBySide=true url="/assets/images/airbnbDraft1.png" title="Onboarding Iterations" description="" %}
+{% include caption.html sideBySide=true url="/assets/images/airbnbDraft1.jpg" title="Onboarding Iterations" description="" %}
 
-{% include caption.html sideBySide=true url="/assets/images/airbnbDraft2.png" title="Agenda Planning Iterations" description="" %}
+{% include caption.html sideBySide=true url="/assets/images/airbnbDraft2.jpg" title="Agenda Planning Iterations" description="" %}
 
 ## Final Screens
 
@@ -34,13 +34,13 @@ Create daily agendas to keep everyone interested, find your travel mates on the 
 
 The idea of keeping connected was the focus of this app. We wanted our users to have the most flexibility when traveling with a group. Planning trips can be very stressful, so we wanted to give out users as few obligations as possible. When travel mates go on their own activities, we wanted our users to easily find them for safety and communication, Maps makes trip planning fast and easy. It can be difficult to find new things to do when traveling, so the Discover feature allows everyone to explore.
 
-{% include caption.html sideBySide=true url="/assets/images/airbnb1.png" title="Onboarding Screens" description="Onboarding images." %}
+{% include caption.html sideBySide=true url="/assets/images/airbnb1.jpg" title="Onboarding Screens" description="Onboarding images." %}
 
-{% include caption.html sideBySide=true url="/assets/images/airbnb2.png" title="Booking Stays" description="Creating travel plans with friends and family." %}
+{% include caption.html sideBySide=true url="/assets/images/airbnb2.jpg" title="Booking Stays" description="Creating travel plans with friends and family." %}
 
-{% include caption.html sideBySide=true url="/assets/images/airbnb3.png" title="Event Planning" description="Create scheduled events and plan adventures with your travel party. This app allows users to track their travel party in case the group splits up or if anyone gets lost." %}
+{% include caption.html sideBySide=true url="/assets/images/airbnb3.jpg" title="Event Planning" description="Create scheduled events and plan adventures with your travel party. This app allows users to track their travel party in case the group splits up or if anyone gets lost." %}
 
-{% include caption.html sideBySide=true url="/assets/images/airbnb4.png" title="Callouts" description="Highlights of our app that separates us from the competition. Creating agendas, a travel party map, and local hotspots." %}
+{% include caption.html sideBySide=true url="/assets/images/airbnb4.jpg" title="Callouts" description="Highlights of our app that separates us from the competition. Creating agendas, a travel party map, and local hotspots." %}
 
 ## Relive, edit, and share your picture-perfect moments.
 
