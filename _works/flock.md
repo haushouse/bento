@@ -55,55 +55,55 @@ opacity: 1; transform: scale(1);
 
 <ul class="glide__slides">
 
-<li class="glide__slide" style="text-align: left;"> <img src="/assets/images/draft1.png" alt="onboarding iteration 1">
+<li class="glide__slide" style="text-align: left;"> <img src="/assets/images/fDraft1.jpg" alt="onboarding iteration 1">
 
 <small>The initial onboarding screen placed a focused on color and a frosted skim appearance. Our magpie mascot, Mag-bot is featured throughout the onboarding process.</small>
 
 </li>
 
-<li class="glide__slide" style="text-align: left;"> <img src="/assets/images/draft2.png" alt="onboarding iteration 2">
+<li class="glide__slide" style="text-align: left;"> <img src="/assets/images/fDraft2.jpg" alt="onboarding iteration 2">
 
 <small>The second iterations of the onboarding screens utilize a simplified color palette, different text-field styles, and a geometric version of Mag-bot featured in Flock's brand colors.</small>
 
 </li>
 
-<li class="glide__slide" style="text-align: left;"> <img src="/assets/images/draft3.png" alt="onboarding iteration 3">
+<li class="glide__slide" style="text-align: left;"> <img src="/assets/images/fDraft3.jpg" alt="onboarding iteration 3">
 
 <small>Users are able to curate their feed by selecting the interests that float on the screen. This style and appearance feels dated and displays a limited number of options.</small>
 
 </li>
 
-<li class="glide__slide" style="text-align: left;"> <img src="/assets/images/draft4.png" alt="discover iteration 1">
+<li class="glide__slide" style="text-align: left;"> <img src="/assets/images/fDraft4.jpg" alt="discover iteration 1">
 
 <small>The initial designs of the Discover page uses a similar frosted skim design as seen in the onboarding screens. The messaging feature felt constricted in the upper corner.</small>
 
 </li>
 
-<li class="glide__slide" style="text-align: left;"> <img src="/assets/images/draft5.png" alt="discover iteration 2">
+<li class="glide__slide" style="text-align: left;"> <img src="/assets/images/fDraft5.jpg" alt="discover iteration 2">
 
 <small>The layout pins the messaging feature on the right side of the screen and displays a compact navigation bar. The profile icon, notifications and messaging icon was moved into the nav bar.</small>
 
 </li>
 
-<li class="glide__slide" style="text-align: left;"> <img src="/assets/images/draft6.png" alt="discover iteration 3">
+<li class="glide__slide" style="text-align: left;"> <img src="/assets/images/fDraft6.jpg" alt="discover iteration 3">
 
 <small>We continued adjusting the layout of the Discover page and expanded the application of our brand elements. Our goal was to bring focus to the daily challenge section.</small>
 
 </li>
 
-<li class="glide__slide" style="text-align: left;"> <img src="/assets/images/draft7.png" alt="Nest iteration">
+<li class="glide__slide" style="text-align: left;"> <img src="/assets/images/fDraft7.jpg" alt="Nest iteration">
 
 <small>When building the profile screens we were challenged with finding an effective way of displaying the creator content in an organized way. We had trouble including the user's interests in their profile.</small>
 
 </li>
 
-<li class="glide__slide" style="text-align: left;"> <img src="/assets/images/draft8.png" alt="challenge iteration">
+<li class="glide__slide" style="text-align: left;"> <img src="/assets/images/fDraft8.jpg" alt="challenge iteration">
 
 <small>The featured daily challenge page uses a single column layout, with the community discussion pinned to the right side. The author's credibility and number of views was also missing from this draft.</small>
 
 </li>
 
-<li class="glide__slide" style="text-align: left;"> <img src="/assets/images/draft9.png" alt="feature article iteration">
+<li class="glide__slide" style="text-align: left;"> <img src="/assets/images/fDraft9.jpg" alt="feature article iteration">
 
 <small>While this editorial layout works for the featured article, it lacks the placement of the comments section. The author's credibility and number of views was also missing from this draft.</small>
 
@@ -119,26 +119,26 @@ opacity: 1; transform: scale(1);
 
 ## Final Screens
 
-{% include caption.html sideBySide=true url="/assets/images/fSignup1.png" title="Onboarding" description="Sign up, personal information." %}
+{% include caption.html sideBySide=true url="/assets/images/fSignup1.jpg" title="Onboarding" description="Sign up, personal information." %}
 
-{% include caption.html sideBySide=true url="/assets/images/fSignup2.png" title="Onboarding" description="Search for personal interests to curate your fyp." %}
+{% include caption.html sideBySide=true url="/assets/images/fSignup2.jpg" title="Onboarding" description="Search for personal interests to curate your fyp." %}
 
-{% include caption.html sideBySide=true url="/assets/images/fNestTutorial.png" title="Profile Tutorial" description="Mag-bot walks you through your Nest profile." %}
+{% include caption.html sideBySide=true url="/assets/images/fNestTutorial.jpg" title="Profile Tutorial" description="Mag-bot walks you through your Nest profile." %}
 
-{% include caption.html sideBySide=true url="/assets/images/fNest.png" title="Nest Profile" description="Your Nest houses your personal profile information. Locate your digital content and keep track of your badge achievements." %}
+{% include caption.html sideBySide=true url="/assets/images/fNest.jpg" title="Nest Profile" description="Your Nest houses your personal profile information. Locate your digital content and keep track of your badge achievements." %}
 
-{% include caption.html sideBySide=true url="/assets/images/fNestBadges.png" title="Badge Achievements" description="Badges you collect will be displayed here." %}
+{% include caption.html sideBySide=true url="/assets/images/fNestBadges.jpg" title="Badge Achievements" description="Badges you collect will be displayed here." %}
 
-{% include caption.html sideBySide=true url="/assets/images/fNestBadges2.png" title="Card Information" description="Select a card to view details." %}
+{% include caption.html sideBySide=true url="/assets/images/fNestBadges2.jpg" title="Card Information" description="Select a card to view details." %}
 
-{% include caption.html sideBySide=true url="/assets/images/fDiscoverTutorial.png" title="Feed Tutorial" description="Curated content will appear here. Daily and trending challenges " %}
+{% include caption.html sideBySide=true url="/assets/images/fDiscoverTutorial.jpg" title="Feed Tutorial" description="Curated content will appear here. Daily and trending challenges " %}
 
-{% include caption.html sideBySide=true url="/assets/images/fArticle.png" title="Article + Comments" description="Flock highlights the building of connections in new communities." %}
+{% include caption.html sideBySide=true url="/assets/images/fArticle.jpg" title="Article + Comments" description="Flock highlights the building of connections in new communities." %}
 
-{% include caption.html sideBySide=true url="/assets/images/fFeatured.png" title="Featured Challenges" description="New daily skill shares will be updated, giving users the chance to learn new skills from different communities." %}
+{% include caption.html sideBySide=true url="/assets/images/fFeatured.jpg" title="Featured Challenges" description="New daily skill shares will be updated, giving users the chance to learn new skills from different communities." %}
 
-{% include caption.html sideBySide=true url="/assets/images/fChallenge.png" title="Daily Challenge" description="Joining daily challenges gives the user more opportunities to earn badges. Upon joining a challenge, users can connect to all community participants." %}
+{% include caption.html sideBySide=true url="/assets/images/fChallenge.jpg" title="Daily Challenge" description="Joining daily challenges gives the user more opportunities to earn badges. Upon joining a challenge, users can connect to all community participants." %}
 
-{% include caption.html sideBySide=true url="/assets/images/fMessage.png" title="Messages" description="Users can join and create group discussions called flocks. Allowing community members to stay connected." %}
+{% include caption.html sideBySide=true url="/assets/images/fMessage.jpg" title="Messages" description="Users can join and create group discussions called flocks. Allowing community members to stay connected." %}
 
-{% include caption.html sideBySide=true url="/assets/images/fMessage.png" title="Messages" description="Users can join and create group discussions called flocks. Allowing community members to stay connected." %}
+{% include caption.html sideBySide=true url="/assets/images/fMessage.jpg" title="Messages" description="Users can join and create group discussions called flocks. Allowing community members to stay connected." %}
