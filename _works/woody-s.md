@@ -3,7 +3,7 @@ layout: blog
 card_size: small
 title: Woody's
 description: Branding / 3D Modeling
-cover_image: "/assets/images/w_thumbnail.png"
+cover_image: "/assets/images/woodythumbnail.png"
 post_image: "/assets/images/whero.png"
 project_link: ''
 context_work: ''
@@ -14,4 +14,72 @@ contribution:
 collaborator: []
 
 ---
-## Updating...
+## Introduction   
+
+A hypothetical rebrand for Woody's Grooming products. I redesigned the logo mark and other brand visuals and created various deliverables to showcase how the new identity system would be applied to company marketing and packaging. Through this project I wanted to redesign the identity to better reach the audience of adults with a modern color palette and redesigned packaging.
+
+<style>
+
+.glide ul {
+
+max-width: initial;
+
+}
+
+.glide img {
+
+pointer-events: none;
+
+}
+
+.glide__slides {
+
+padding-left: 0;
+
+}
+
+.glide .glide__slide {
+
+opacity: 1; transform: scale(1);
+
+}
+
+</style>
+
+<div class="glide mt4">
+
+<div class="glide__track" data-glide-el="track">
+
+<ul class="glide__slides">
+
+<li class="glide__slide" style="text-align: left;"> <img src="/assets/images/woodysOld1.png" alt="Woody's homepage">
+
+<small></small>
+
+</li>
+
+<li class="glide__slide" style="text-align: left;"> <img src="/assets/images/woodysOld2.png" alt="Woody's packaging 1">
+
+<small></small>
+
+</li>
+
+<li class="glide__slide" style="text-align: left;"> <img src="/assets/images/woodysOld4.png" alt="Woody's packaging 2">
+
+<small>Users are able to curate their feed by selecting the interests that float on the screen. This style and appearance feels dated and displays a limited number of options.</small>
+
+</li>
+
+<li class="glide__slide" style="text-align: left;"> <img src="/assets/images/woodysOld4.png" alt="Woody's Instagram">
+
+<small></small>
+
+</li>
+
+</ul>
+
+</div>
+
+<small style="text-align: center; color: var(--ink-6); font-weight: 600; display: block;">drag, swipe or use arrow keys</small>
+
+</div>
