@@ -78,7 +78,7 @@ opacity: 1; transform: scale(1);
 
 At the start of the project, they showed our team the current prototype game. However they made it clear that all of the current assets besides the logo were placeholders and gave us free rein to create a new look and systems.
 
-![](/assets/images/bc_wireframes.png)
+![](/assets/images/bcwireframes.png)
 
 ### Interface
 
