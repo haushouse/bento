@@ -1,7 +1,7 @@
 ---
 layout: about
 title: About
-callout: Ey-yo, I'm Derek! Let's work together!
+callout: Hiya, I'm Derek! Let's work together!
 about_photo: "/assets/images/derek_about.png"
 permalink: "/about/"
 grid_border: false
