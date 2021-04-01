@@ -4,7 +4,7 @@ card_size: small
 title: Woody's
 description: Branding / 3D Modeling
 cover_image: "/assets/images/woodythumbnail.png"
-post_image: "/assets/images/woodyshero.png"
+post_image: "/assets/images/woodyshero.jpg"
 project_link: ''
 context_work: ''
 context_date: ''
