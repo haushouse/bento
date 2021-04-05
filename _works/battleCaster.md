@@ -120,9 +120,9 @@ The deck builder iterations were one of the final screens created for the client
 
 The last component of the card we changed was the element symbols. The original symbols were more artistry rendered but did not scale well when smaller than 32px. Therefore a team member came up with a simpler flatter, more scalable symbol.
 
-{:.nameofclass}
+![](/assets/images/bc_iconsize.png)
 
-![](/assets/images/bc_iconsize.png)![](/assets/images/bc_symbols-1.png)
+![](/assets/images/bcsymbols.png)
 
 ## Development
 
