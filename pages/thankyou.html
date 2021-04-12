@@ -1,0 +1,266 @@
+---
+title: Thank You
+permalink: "/thankyou/"
+---
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{page.title}}</title>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Jost:wght@400;500&display=swap" rel="stylesheet">
+<style>
+    html {
+        padding: 0;
+        margin: 0;
+    }
+    body {
+        padding: 0;
+        margin: 0;
+        font-family: 'Jost', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        font-size: 20px;
+    }
+.waves {
+    transform: translateY(2px);
+    width: 100%;
+    height: auto;
+}
+ .water{
+    position: relative;
+    background: linear-gradient(180deg, #5EC7D8 -2.62%, #38B7D8 109.15%);
+ }
+ .bubbles {
+     position: absolute;
+     top: 0;
+     bottom: 0;
+     left: 0;
+     right: 0;
+     display: grid;
+     grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+     grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
+     grid-gap: 24px;
+     z-index: 1;
+ }
+ .bubbles svg {
+     z-index: 1;
+     animation: float 6s ease-in-out infinite;
+ }
+ .bubbles .first {
+     grid-column-start: 4;
+     grid-template-rows: 1;
+     align-self: center;
+     justify-self: center;
+ }
+ .bubbles .second {
+    grid-column-start: 5;
+    grid-row-start:  2;
+    align-self: center;
+    justify-self: center;
+    animation-delay: 1s;
+ }
+ .bubbles .three {
+    grid-column-start: 4;
+    grid-row-start:  5;
+    align-self: center;
+    justify-self: center;
+    animation-delay: 2s;
+ }
+.bubbles .four {
+    grid-column-start: 1;
+    grid-row-start:  3;
+    align-self: center;
+    justify-self: center;
+}
+
+ p, h1 {
+     max-width: 640px;
+     margin: auto auto;
+     line-height: 1.75;
+     z-index: 10;
+     color: #132E50;
+ }
+ h1 {
+    font-family: Jost;
+    font-size: 43px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 62px;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+
+ }
+ p + p {
+     margin-bottom: 2rem;
+ }
+ .textCopy {
+     position: relative;
+     padding: 10rem 2rem;
+     z-index: 2;
+ }
+ .heroCopy {
+     text-align: center;
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+     justify-content: center;
+     min-height: 600px;
+     height: 70vh;
+ }
+ .scroll_wrapper {
+     display: flex;
+     align-items: center;
+     justify-content: center;
+ }
+ .scroll_arrow {
+     width: 24px;
+     margin: auto auto;
+ }
+ .deepSea {
+     padding: 3rem 0 15rem 0;
+     width: 100%;
+     display: flex;
+     flex-direction: row-reverse;
+ }
+ .submarine {
+     height: 150px;
+     animation: sub 6.6s linear infinite;
+     transform: translateX(10vw);
+     justify-self: flex-end;
+ }
+ header {
+     padding-top: 1rem;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+ }
+ header a {
+     text-decoration: none;
+     opacity: .7;
+     text-align: center;
+     color: #132E50;
+     font-weight: 500;
+     letter-spacing: 1px;
+     font-size: 14px;
+     text-transform: uppercase;
+     border-bottom: 1px solid transparent;
+ }
+ a:hover {
+     opacity: 1;
+     border-bottom: 1px solid #132E50;
+ }
+
+ .bounce {
+  animation-iteration-count: infinite;
+  animation-duration: 1.5s;
+  animation: bounce 3.6s ease infinite;
+  transform-origin: 50% 50%;
+}
+@keyframes sub{
+  100%{
+    transform: translateX(-110vw);
+  }
+}
+
+
+@keyframes float {
+	0% {
+		transform: translatey(0px);
+	}
+	50% {
+		transform: translatey(20px);
+	}
+	100% {
+		transform: translatey(0px);
+	}
+}
+
+@keyframes bounce {
+  0% {
+    transform: translateY(0);
+  }
+  11.11111% {
+    transform: translateY(0);
+  }
+  22.22222% {
+    transform: translateY(-10px);
+  }
+  27.77778% {
+    transform: translateY(0);
+  }
+  33.33333% {
+    transform: translateY(-10px);
+  }
+  44.44444% {
+    transform: translateY(0);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
+</style>
+</head>
+<body>
+<header>
+    <a href="/">Return Home</a>
+</header>
+
+<div class="heroCopy">
+    <div>
+        <p>Thank you</p>
+        <h1>Brainium</h1>
+    </div>        
+</div>
+<div class="scroll_wrapper">
+    <svg class="bounce" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M12 13.172L16.95 8.222L18.364 9.636L12 16L5.63599 9.636L7.04999 8.222L12 13.172Z" fill="#132E50"/>
+    </svg>
+</div>
+<div>
+    <svg class="waves" width="1440" height="182" viewBox="0 0 1440 182" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M144.974 62.5063C154.469 15.7462 131.784 3.5608 121.868 0.850616L121.865 0.849818C109.629 -2.55964 96.9453 4.59603 93.5359 16.8325C90.1264 29.0689 97.2821 41.7524 109.519 45.1619C110.137 45.3342 110.757 45.4795 111.376 45.5986C129.569 50.0619 137.662 57.6531 142.338 63.1689C143.152 64.1294 144.723 63.7402 144.974 62.5063Z" fill="#5EC7D9"/>
+        <path d="M1056 95.6761C1056 108.379 1045.7 118.676 1033 118.676C1020.3 118.676 1010 108.379 1010 95.6761C1010 82.9736 1020.3 72.6761 1033 72.6761C1045.7 72.6761 1056 82.9736 1056 95.6761Z" fill="#5EC7D9"/>
+        <path d="M0 103.676V181.676H1440V103.676C1305.06 103.676 1202.88 121.828 1097.73 140.506C986.294 160.302 871.524 180.69 710.9 180.69C554.286 180.69 442.381 160.302 333.725 140.506C286.64 131.928 240.164 123.461 190.926 116.812C189.977 104.981 180.075 95.6761 168 95.6761C159.735 95.6761 152.488 100.036 148.434 106.581C146.115 96.3302 136.951 88.6761 126 88.6761C114.714 88.6761 105.326 96.8057 103.373 107.529C70.8953 105.088 36.6894 103.676 0 103.676Z" fill="#5EC7D9"/>
+        <path d="M187.678 42.0153C182.462 40.3104 168.769 39.0763 159.265 62.7123C159.014 63.336 159.6 63.9711 160.246 63.7821C163.95 62.6967 169.787 61.6902 179.206 65.0435C179.518 65.1729 179.838 65.2905 180.165 65.3956C186.622 67.4701 193.537 63.918 195.612 57.4618C197.686 51.0055 194.134 44.09 187.678 42.0153Z" fill="#5EC7D9"/>
+        <path d="M1303.64 80.9279C1305.18 35.1559 1328.88 29.0911 1338.6 28.8633L1338.6 28.8631C1350.49 28.5272 1360.4 37.8925 1360.74 49.781C1361.07 61.6695 1351.71 71.5794 1339.82 71.9153C1339.22 71.9322 1338.62 71.9244 1338.04 71.8928C1319.37 71.8383 1310.3 77.5843 1304.92 81.6153C1304.38 82.0184 1303.62 81.5997 1303.64 80.9279Z" fill="#5EC7D9"/>
+    </svg>
+    <div class="water">
+        <div class="textCopy">
+            <p>
+                Hi Wendy,
+            </p>
+            <p>
+                Thank you so much for meeting with me today. It was such a pleasure to learn more about the team and position, and I am very excited about the opportunity to join Brainium and create new content with your team.
+            </p>
+            <p>
+                I look forward to hearing from you about the next steps in the hiring process, and please do not hesitate to contact me if I can provide additional information.
+            </p>
+            <p>
+                Best Regards, <br>
+                Derek Liu
+            </p>
+        </div>
+        <div class="bubbles">
+            <svg class="first" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M24 12C24 18.6274 18.6274 24 12 24C5.37258 24 0 18.6274 0 12C0 5.37258 5.37258 0 12 0C18.6274 0 24 5.37258 24 12Z" fill="white"/>
+            </svg>
+            <svg class="second" width="46" height="46" viewBox="0 0 46 46" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M46 23C46 35.7025 35.7025 46 23 46C10.2975 46 0 35.7025 0 23C0 10.2975 10.2975 0 23 0C35.7025 0 46 10.2975 46 23Z" fill="white"/>
+            </svg>
+            <svg class="three" width="85" height="98" viewBox="0 0 85 98" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M12.5 25C19.4036 25 25 19.4036 25 12.5C25 5.59644 19.4036 0 12.5 0C5.59644 0 0 5.59644 0 12.5C0 19.4036 5.59644 25 12.5 25Z" fill="white"/>
+                <path d="M50 98C69.33 98 85 82.33 85 63C85 43.67 69.33 28 50 28C30.67 28 15 43.67 15 63C15 82.33 30.67 98 50 98Z" fill="white"/>
+            </svg>
+            <svg class="four" width="82" height="70" viewBox="0 0 82 70" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M35 70C54.33 70 70 54.33 70 35C70 34.9725 69.9999 34.9451 69.9999 34.9176C76.7499 34.1715 82 28.4489 82 21.5C82 14.0442 75.9558 8 68.5 8C65.4058 8 62.5547 9.04102 60.2778 10.7919C53.9069 4.14111 44.937 0 35 0C15.67 0 0 15.67 0 35C0 54.33 15.67 70 35 70Z" fill="white"/>
+            </svg>      
+        </div>
+        <div class="deepSea">
+            <img class="submarine" src="/assets/images/submarine.png" alt="">
+        </div>
+    </div>        
+</div>
+
+</body>
+</html>
