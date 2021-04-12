@@ -8,10 +8,36 @@ featuredlinks:
 - link: About me
   url: "/About"
 - link: Resume
+  url: "/assets/derek_liu_resume.pdf"
+image: "/assets/images/open_graph.png"
 
 ---
 <style>
 .fourbygrid { grid-auto-flow: dense; }
+  .blur {
+  filter: blur(25px);
+  opacity: 0;
+  animation-name: imageload;
+  animation-duration: .6s;
+  animation-delay: .5s;
+  animation-timing-function: ease-in-out;
+  animation-fill-mode: forwards;
+  image-rendering: crisp-edges;
+  image-rendering: pixelated;
+}
+  .fade {
+    opacity: 0;
+    animation-name: imageload;
+    animation-duration: .4s;
+    animation-delay: 1s;
+    animation-timing-function: ease-in;
+    animation-fill-mode: forwards;
+}
+
+@keyframes imageload {
+  from {opacity: 0; }
+  to {opacity: 1; filter: blur(0);}
+}
 </style>
 <header class="fourbygrid p0 xlgItem minheight">
 
@@ -56,7 +82,7 @@ featuredlinks:
         <p class="mb1">{{ work.title }}</p>
         <p class="description pb3">{{ work.description }}</p>
       </div>
-      <img src="{{ work.cover_image }}" alt=" {{ work.title }} image">
+      <img class="fade" src="{{ work.cover_image }}" alt=" {{ work.title }} image" loading="lazy">
       <div class="cardBackground"></div>
     </a>
   {% endfor %}

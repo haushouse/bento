@@ -1,0 +1,36 @@
+---
+label: home page
+hide_body: false
+fields:
+- name: image
+  type: file
+  config:
+    maxSize: 64
+  label: front matter
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
+- type: text
+  name: description
+  label: description
+- type: text
+  name: working_copy
+  label: working_copy
+- type: boolean
+  name: grid_border
+  label: grid_border
+- type: field_group_list
+  name: featuredlinks
+  label: featuredlinks
+  fields:
+  - type: text
+    name: link
+    label: link
+  - type: text
+    name: url
+    label: url
+pages:
+- index.html
