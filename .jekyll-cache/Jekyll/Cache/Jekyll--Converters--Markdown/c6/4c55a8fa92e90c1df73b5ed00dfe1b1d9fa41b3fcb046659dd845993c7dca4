@@ -1,0 +1,86 @@
+I"s<h2 id="adobe-creative-jam--airbnb">Adobe Creative Jam + Airbnb</h2>
+
+<p>Adobe teamed up with Airbnb to foster design thinking, and show off new talent. They held a nation wide competition in 2020 to see how we could create new ways for friends and family to travel together and share photos when booking through Airbnb and using Adobe’s new Prototyping software, XD.</p>
+
+<h2 id="iterations">Iterations</h2>
+
+<p>Due to the quick 48 hour turn around time we had during this Creative Jam, our team did not go through many iterations. We focused on laying out components in the interface that would make sense to the viewer before focusing on a solid design direction.</p>
+
+<div> <img src="/assets/images/airbnbBefore.jpg" alt="first iteration" /> </div>
+
+<figure class="image sideBySide">
+    <img src="/assets/images/airbnbDraft1.jpg" />
+    <figcaption>
+        <p>↑</p>
+        <div>
+            <p class="bold">Onboarding Iterations</p>
+             <p></p> 
+        </div>
+    </figcaption>
+</figure>
+
+<figure class="image sideBySide">
+    <img src="/assets/images/airbnbDraft2.jpg" />
+    <figcaption>
+        <p>↑</p>
+        <div>
+            <p class="bold">Agenda Planning Iterations</p>
+             <p></p> 
+        </div>
+    </figcaption>
+</figure>
+
+<h2 id="final-screens">Final Screens</h2>
+
+<p>Create daily agendas to keep everyone interested, find your travel mates on the map to keep in touch when they do their own activities and discover new activites along the way.</p>
+
+<p>The idea of keeping connected was the focus of this app. We wanted our users to have the most flexibility when traveling with a group. Planning trips can be very stressful, so we wanted to give out users as few obligations as possible. When travel mates go on their own activities, we wanted our users to easily find them for safety and communication, Maps makes trip planning fast and easy. It can be difficult to find new things to do when traveling, so the Discover feature allows everyone to explore.</p>
+
+<figure class="image sideBySide">
+    <img src="/assets/images/airbnb1.jpg" />
+    <figcaption>
+        <p>↑</p>
+        <div>
+            <p class="bold">Onboarding Screens</p>
+             <p>Onboarding images.</p> 
+        </div>
+    </figcaption>
+</figure>
+
+<figure class="image sideBySide">
+    <img src="/assets/images/airbnb2.jpg" />
+    <figcaption>
+        <p>↑</p>
+        <div>
+            <p class="bold">Booking Stays</p>
+             <p>Creating travel plans with friends and family.</p> 
+        </div>
+    </figcaption>
+</figure>
+
+<figure class="image sideBySide">
+    <img src="/assets/images/airbnb3.jpg" />
+    <figcaption>
+        <p>↑</p>
+        <div>
+            <p class="bold">Event Planning</p>
+             <p>Create scheduled events and plan adventures with your travel party. This app allows users to track their travel party in case the group splits up or if anyone gets lost.</p> 
+        </div>
+    </figcaption>
+</figure>
+
+<figure class="image sideBySide">
+    <img src="/assets/images/airbnb4.jpg" />
+    <figcaption>
+        <p>↑</p>
+        <div>
+            <p class="bold">Callouts</p>
+             <p>Highlights of our app that separates us from the competition. Creating agendas, a travel party map, and local hotspots.</p> 
+        </div>
+    </figcaption>
+</figure>
+
+<h2 id="relive-edit-and-share-your-picture-perfect-moments">Relive, edit, and share your picture-perfect moments.</h2>
+
+<p>Moments is where you can upload all the amazing photos you take on your trip. Keep everyone up to date on your latest activites and sights. Posting your travel photos and video clips to the shared cloud photo album brings the memories together.</p>
+:ET

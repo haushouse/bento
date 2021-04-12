@@ -19,10 +19,12 @@
 <link rel="canonical" href="http://0.0.0.0:4000/" />
 <meta property="og:url" content="http://0.0.0.0:4000/" />
 <meta property="og:site_name" content="Derek Liu" />
-<meta name="twitter:card" content="summary" />
+<meta property="og:image" content="http://0.0.0.0:4000/assets/images/open_graph.png" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta property="twitter:image" content="http://0.0.0.0:4000/assets/images/open_graph.png" />
 <meta property="twitter:title" content="Home" />
 <script type="application/ld+json">
-{"url":"http://0.0.0.0:4000/","headline":"Home","author":{"@type":"Person","name":"Derek Liu"},"description":"Simple by design.","name":"Derek Liu","@type":"WebSite","@context":"https://schema.org"}</script>
+{"url":"http://0.0.0.0:4000/","headline":"Home","author":{"@type":"Person","name":"Derek Liu"},"image":"http://0.0.0.0:4000/assets/images/open_graph.png","description":"Simple by design.","name":"Derek Liu","@type":"WebSite","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
       <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -45,6 +47,30 @@
       <div class="fourbygrid max1280  gridBorder ">
         <style>
 .fourbygrid { grid-auto-flow: dense; }
+  .blur {
+  filter: blur(25px);
+  opacity: 0;
+  animation-name: imageload;
+  animation-duration: .6s;
+  animation-delay: .5s;
+  animation-timing-function: ease-in-out;
+  animation-fill-mode: forwards;
+  image-rendering: crisp-edges;
+  image-rendering: pixelated;
+}
+  .fade {
+    opacity: 0;
+    animation-name: imageload;
+    animation-duration: .4s;
+    animation-delay: 1s;
+    animation-timing-function: ease-in;
+    animation-fill-mode: forwards;
+}
+
+@keyframes imageload {
+  from {opacity: 0; }
+  to {opacity: 1; filter: blur(0);}
+}
 </style>
 <header class="fourbygrid p0 xlgItem minheight">
 
@@ -62,7 +88,7 @@
     
     <a class="ink7 mr4 pb2 text-decoration-none hover-underline t3" href="/About">About me</a>
     
-    <a class="ink7 mr4 pb2 text-decoration-none hover-underline t3" href="">Resume</a>
+    <a class="ink7 mr4 pb2 text-decoration-none hover-underline t3" href="/assets/derek_liu_resume.pdf">Resume</a>
     
   </div>
  </div>
@@ -86,7 +112,7 @@
         <p class="mb1">Adobe x Airbnb</p>
         <p class="description pb3">UI Design / Branding</p>
       </div>
-      <img src="assets/images/airbnb_thumbnail.png" alt=" Adobe x Airbnb image">
+      <img class="fade" src="/assets/images/airbnbthumbnail.png" alt=" Adobe x Airbnb image" loading="lazy">
       <div class="cardBackground"></div>
     </a>
   
@@ -103,24 +129,41 @@
         <p class="mb1">Battle Caster</p>
         <p class="description pb3">UI Design / Branding</p>
       </div>
-      <img src="assets/images/bc_thumbnail.png" alt=" Battle Caster image">
+      <img class="fade" src="/assets/images/bcthumbnail2.png" alt=" Battle Caster image" loading="lazy">
       <div class="cardBackground"></div>
     </a>
   
     <a href="/works/capstone" 
       class="
-       mdItem 
-        ">
+       smItem
+      ">
       <div>
         <small class="caps bold">
           
             03
           
         </small>
-        <p class="mb1">Capstone</p>
-        <p class="description pb3">Coming soon</p>
+        <p class="mb1">Coming Soon</p>
+        <p class="description pb3">UI Design / Branding</p>
       </div>
-      <img src="" alt=" Capstone image">
+      <img class="fade" src="/assets/images/cthumbnail.png" alt=" Coming Soon image" loading="lazy">
+      <div class="cardBackground"></div>
+    </a>
+  
+    <a href="/works/flock" 
+      class="
+       mdItem 
+        ">
+      <div>
+        <small class="caps bold">
+          
+            04
+          
+        </small>
+        <p class="mb1">Flock</p>
+        <p class="description pb3">UI Design / Branding</p>
+      </div>
+      <img class="fade" src="/assets/images/fthumbnail.png" alt=" Flock image" loading="lazy">
       <div class="cardBackground"></div>
     </a>
   
@@ -131,34 +174,35 @@
       <div>
         <small class="caps bold">
           
-            04
+            05
           
         </small>
         <p class="mb1">Hot Pot</p>
         <p class="description pb3">UI Design / Branding</p>
       </div>
-      <img src="assets/images/hp_thumbnail.png" alt=" Hot Pot image">
+      <img class="fade" src="assets/images/hp_thumbnail.png" alt=" Hot Pot image" loading="lazy">
       <div class="cardBackground"></div>
     </a>
   
     <a href="/works/woody-s" 
       class="
-       mdItem 
-        ">
+       smItem
+      ">
       <div>
         <small class="caps bold">
           
-            05
+            06
           
         </small>
         <p class="mb1">Woody's</p>
         <p class="description pb3">Branding / 3D Modeling</p>
       </div>
-      <img src="assets/images/w_thumbnail.png" alt=" Woody's image">
+      <img class="fade" src="/assets/images/woodythumbnail.png" alt=" Woody's image" loading="lazy">
       <div class="cardBackground"></div>
     </a>
   
 </section>
+
       </div>
       <footer class="fourbygrid max1280">
     <ul class="list-reset">
