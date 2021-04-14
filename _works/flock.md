@@ -139,6 +139,4 @@ opacity: 1; transform: scale(1);
 
 {% include caption.html sideBySide=true url="/assets/images/fChallenge.jpg" title="Daily Challenge" description="Joining daily challenges gives the user more opportunities to earn badges. Upon joining a challenge, users can connect to all community participants." %}
 
-{% include caption.html sideBySide=true url="/assets/images/fMessage.jpg" title="Messages" description="Users can join and create group discussions called flocks. Allowing community members to stay connected." %}
-
 {% include caption.html sideBySide=false url="/assets/images/fMessage.jpg" title="Messages" description="Users can join and create group discussions called flocks. Allowing community members to stay connected." %}
